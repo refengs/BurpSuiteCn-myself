@@ -11,4 +11,3 @@ burp的汉化个人翻译文本
 ![UdaLWt.png](https://s1.ax1x.com/2020/07/15/UdaLWt.png)
 ![UdaXSP.png](https://s1.ax1x.com/2020/07/15/UdaXSP.png)
 ![UdaqJI.png](https://s1.ax1x.com/2020/07/15/UdaqJI.png)
-![1.png](./1.png)
