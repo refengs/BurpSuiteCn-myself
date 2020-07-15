@@ -1,0 +1,1321 @@
+Intercept is on	拦截开启(on)
+Intercept is off	拦截关闭(off)
+Drop	丢弃(Drop)
+Forward	放行(Forward)
+Action	操作(Action)
+Next	下一步(Next)
+Temporary project	临时项目
+New project on disk	在磁盘新建项目
+Open existing project	打开已有的项目
+Name:	名字(Name):
+File:	文件(File):
+Name	名字(Name)
+File	文件(File)
+Choose file...	选择文件(Choose file)...
+Cancel	取消(Cancel)
+Pause Automated Tasks	暂停自动任务
+Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.0体验版 本人不对翻译等内容负责 by: C1O2A3
+Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.0体验版 本人不对翻译等内容负责 by: C1O2A3
+Are you sure you want to cancel?	你确定要退出吗?
+Yes	是
+No	否
+Confirm	提示
+Use Burp defaults	使用Bur的默认值
+Use options saved with project	使用项目中保存的选项
+Load from configuration file	从文件中读取设置
+Default to the above in future	下次将其设置为默认值
+Disable extensions	禁用扩展
+Back	返回
+Start Burp	启动Burp
+Open config file	打开配置文件
+Select the configuration that you would like to load for this project.	选择要为该项目加载的配置。
+Are you sure you want to exit?	你确定要退出吗?
+Please select a project file	请选择一个项目文件
+Please enter a config file	请载入一个配置文件
+Starting project, please wait ...	正在进入项目，请稍等...
+This will close all Burp windows - are you sure you want to exit?	这将会关闭所有的BURP窗口 - 你确定想要退出吗?
+Tasks	任务
+New scan	新建扫描(New scan)
+New scan 	新建扫描(New scan)
+New scanning configuration	新的扫描设置(New scanning configuration)
+New live task	新建实时任务(New live task)
+New live task 	新建实时任务(New live task)
+Issue activity	漏洞问题活动(Issue activity)
+Filter	过滤(Filter)
+Filter:	过滤器：
+Filter: 	过滤器：
+High	高(High)
+Medium	中(Medium)
+Low	低(Low)
+Info	信息(Info)
+Certain	Certain
+Firm	Firm
+Tentative	Tentative
+Advisory	Advisory
+Task	任务(Task)
+Time	时间(Time)
+Issue type	漏洞问题类型(sue type)
+Event log	事件日志(Event log)
+Critical	关键(Critical)
+Error	错误(Error)
+Info	信息(Info)
+Debug	Debug
+Type	类型(Type)
+Source	来源(Source)
+Message	信息(Message)
+Filter	过滤器(Filter)
+Running	运行中
+Paused	已暂停
+Finished	已完成
+([0-9]+) items added to site map	$1个项目添加到站点地图
+([0-9]+) responses processed	$1个响应已处理
+([0-9]+) responses queued	$1个响应排队中
+([0-9]+)\. Live audit from Proxy, Repeater and Intruder \(suite scope\)	$1. Proxy,Repeater,Intruder实时诊断（工具范围）
+([0-9]+)\. Live passive crawl from (Proxy|Repeater) and (Repeater|Intruder) \(all traffic\)	$1. $2,$3（所有流量）实时被动爬行
+([0-9]+)\. Live passive crawl from (Proxy|Repeater) and (Repeater|Intruder) \(custom scope\)	$1. $2,$3从（自定义范围）实时被动爬网
+([0-9]+)\. Live passive crawl from (Proxy|Repeater) and (Repeater|Intruder) \(suite scope\)	$1. $2,$3来自（工具范围）的实时被动爬行
+([0-9]+)\. Live passive crawl from (Proxy|Repeater|Intruder) \(all traffic\)	$1. $2（所有流量）实时被动爬行
+([0-9]+)\. Live passive crawl from (Proxy|Repeater|Intruder) \(custom scope\)	$1. $2从（自定义范围）实时被动爬网
+([0-9]+)\. Live passive crawl from (Proxy|Repeater|Intruder) \(suite scope\)	$1. $2来自（工具范围）的实时被动爬行
+([0-9]+)\. Live passive crawl from Proxy, Repeater and Intruder \(all traffic\)	$1. Proxy,Repeater,Intruder（所有流量）实时被动爬行
+([0-9]+)\. Live passive crawl from Proxy, Repeater and Intruder \(custom scope\)	$1. Proxy,Repeater,Intruder从（自定义范围）实时被动爬网
+([0-9]+)\. Live passive crawl from Proxy, Repeater and Intruder \(suite scope\)	$1. $Proxy,Repeater,Intruder 来自（工具范围）的实时被动爬行
+([0-9]+)\. Live audit from (Proxy|Repeater) and (Repeater|Intruder) \(all traffic\)	$1. $2,$3实时诊断（所有流量）
+([0-9]+)\. Live audit from (Proxy|Repeater) and (Repeater|Intruder) \(custom scope\)	$1. $2,$3实时诊断（自定义范围）
+([0-9]+)\. Live audit from (Proxy|Repeater) and (Repeater|Intruder) \(suite scope\)	$1. $2,$3实时诊断（工具范围）
+([0-9]+)\. Live audit from (Proxy|Repeater|Intruder) \(all traffic\)	$1. $2实时诊断（所有流量）
+([0-9]+)\. Live audit from (Proxy|Repeater|Intruder) \(custom scope\)	$1. $2实时诊断（自定义范围）
+([0-9]+)\. Live audit from (Proxy|Repeater|Intruder) \(suite scope\)	$1. $2实时诊断（工具范围）
+([0-9]+)\. Live audit from Proxy, Repeater and Intruder \(all traffic\)	$1. Proxy,Repeater,Intruder 实时诊断（所有流量）
+([0-9]+)\. Live audit from Proxy, Repeater and Intruder \(custom scope\)	$1. Proxy,Repeater,Intruder实时诊断（自定义范围）
+([0-9]+)\. Live audit from Proxy, Repeater and Intruder \(suite scope\)	$1. Proxy,Repeater,Intruder实时诊断（工具范围）
+([0-9]+)\. Live passive crawl from (Proxy|Repeater) and (Repeater|Intruder) \(all traffic\)	$1. $2,$3（所有流量）实时被动爬行
+([0-9]+)\. Live passive crawl from (Proxy|Repeater) and (Repeater|Intruder) \(custom scope\)	$1. $2,$3从（自定义范围）实时被动爬网
+([0-9]+)\. Live passive crawl from (Proxy|Repeater) and (Repeater|Intruder) \(suite scope\)	$1. $2,$3来自（工具范围）的实时被动爬行
+([0-9]+)\. Live passive crawl from (Proxy|Repeater|Intruder) \(all traffic\)	$1. $2（所有流量）实时被动爬行
+([0-9]+)\. Live passive crawl from (Proxy|Repeater|Intruder) \(custom scope\)	$1. $2从（自定义范围）实时被动爬网
+([0-9]+)\. Live passive crawl from (Proxy|Repeater|Intruder) \(suite scope\)	$1. $2来自（工具范围）的实时被动爬行
+([0-9]+)\. Live passive crawl from Proxy, Repeater and Intruder \(all traffic\)	$1. Proxy,Repeater,Intruder（所有流量）实时被动爬行
+([0-9]+)\. Live passive crawl from Proxy, Repeater and Intruder \(custom scope\)	$1. Proxy,Repeater,Intruder从（自定义范围）实时被动爬网
+([0-9]+)\. Live passive crawl from Proxy, Repeater and Intruder \(suite scope\)	$1. $Proxy,Repeater,Intruder 来自（工具范围）的实时被动爬行
+Audit checks - passive	审计检查 - 被动
+Issues:	漏洞问题(Issues):
+Capturing:	捕获中(Capturing)
+0 requests(0 errors)	0个请求(0个错误)
+View details	查看详细信息(View details)
+Dashboard	仪表盘(Dashboard)
+Add links. Add item itself, same domain and URLs in suite scope.	添加链接，添加项目本身，相同的域和在工具作用域中的网址。
+([0-9]+) requests \(([0-9]+) errors\)	$1个请求($2个错误)
+Proxy service started on([*])	代理服务开始在$1
+Site map	网站地图(Site map)
+Scope	范围(Scope)
+Issue definitions	漏洞问题定义(Issue definitions)
+Filter by MIME type	按MIME类型过滤
+Filter by annotation	按注释过滤
+Filter by extension	按扩展名过滤
+Filter by file extension	按扩展名过滤
+Filter by listener	按监听器过滤
+Filter by request type	按请求类型过滤
+Filter by search term	按搜索字词过滤
+Filter by search term [Pro only]	按搜索词过滤[仅限专业版]
+Filter by status code	按状态代码过滤
+Folders	文件夹选项
+Hide empty folders	隐藏空文件夹
+Filter:	过滤器：
+Filter: 	已过滤隐藏的有：
+Show only in-scope items	仅显示范围内的项目
+Show only requested items	仅显示项目的请求
+Show only parameterized requests	仅显示带参数的请求
+Hide not-found items	隐藏不存在的项目
+Other binary	其他二进制
+Other text	其他文字
+Images	图片
+2xx  [success]	2xx  [成功]
+3xx  [redirection]	3xx  [重定向]
+4xx  [request error]	4xx  [请求错误]
+5xx  [server error]	5xx  [服务器错误]
+Regex	正则表达式
+Case sensitive	区分大写和小写字母
+Negative search	搜索不匹配的项目
+Show only:	显示:
+Hide:	不显示:
+Show all	全部显示
+Hide all	全部隐藏
+Revert changes	撤消更改
+Show only commented items	仅显示已注释的项目
+Show only highlighted items	仅显示彩色的项目
+Show only in-scope items	仅显示在范围内显示项目
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?(HTML|script|XML|CSS|flash) content(.*)	$1$2$3$4$5$6内容$7
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?flash and general binary content(.*)	$1$2$3$4$5flash和一般二进制内容$6
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?general binary content(.*)	$1$2$3$4$5一般二进制内容$6
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?general text and flash content(.*)	$1$2$3$4$5一般文本和flash内容$6
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?general text and image content(.*)	$1$2$3$4$5一般文本和图像内容$6
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?general text content(.*)	$1$2$3$4$5一般文本内容$6
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?general text(, flash)? and general binary content(.*)	$1$2$3$4$5隐藏一般文本$6, 一般二进制文件$7
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?general text, image and flash content(.*)	$1$2$3$4$5隐藏所有文字，图片，flash$6
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?general text, image(, flash)? and general binary content(.*)	$1$2$3$4$5隐藏一般文本，图像$6, 一般二进制文件$7
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?image and flash content(.*)	$1$2$3$4$5图片，flash$6
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?image content(.*)	$1$2$3$4$5隐藏图片$6
+(.*)[Hh]iding (HTML, )?(script, )?(XML, )?(CSS, )?image(, flash)? and general binary content(.*)	$1$2$3$4$5隐藏图片$6, 隐藏一般二进制文件$7
+(.*)[Hh]iding (HTML|script|XML|CSS)(, script)?(, XML)?(, CSS)? and (script|XML|CSS|flash) content(.*)	$1$2$3$4$5, $6隐藏$7
+(.*)[Hh]iding (HTML|script|XML|CSS)(, script)?(, XML)?(, CSS)? and general binary content(.*)	$1$2$3$4$5, 隐藏一般二进制文件$6
+(.*)[Hh]iding (HTML|script|XML|CSS)(, script)?(, XML)?(, CSS)? and general text content(.*)	$1$2$3$4$5, 隐藏一般文本$6
+(.*)[Hh]iding (HTML|script|XML|CSS)(, script)?(, XML)?(, CSS)? and image content(.*)	$1$2$3$4$5, 隐藏图片$6
+(.*)[Hh]iding ([2-5]xx) responses(.*)	$1$2隐藏响应$3
+(.*)[Hh]iding ([2-5]xx, )?([2-5]xx, )?((, )?[2-5]xx) and ([2-5]xx) responses(.*)	$1$2$3$4$5, $6隐藏响应$7
+(.*)[Hh]iding empty folders(.*)	$1隐藏空文件夹$2
+(.*)[Hh]iding incoming items(.*)	$1隐藏入站项目$2
+(.*)[Hh]iding non-parameterized and not found items(.*)	$1没有参数，不存在的项目$2
+(.*)[Hh]iding non-parameterized items(.*)	$1隐藏没有参数的参数$2
+(.*)[Hh]iding not found items(.*)	$1隐藏不存在的项目$2
+(.*)[Hh]iding out of scope and incoming items(.*)	$1隐藏范围外, 已接收的项目$2
+(.*)[Hh]iding out of scope and non-parameterized items(.*)	$1隐藏在范围外, 没有参数的项目$2
+(.*)[Hh]iding out of scope and not found items(.*)	$1隐藏范围外, 不存在的项目$2
+(.*)[Hh]iding out of scope and outgoing items(.*)	$1隐藏范围外，已发送的项目$2
+(.*)[Hh]iding out of scope and unrequested items(.*)	$1隐藏范围外，无响应的项目$2
+(.*)[Hh]iding out of scope and unresponded items(.*)	$1隐藏范围外，未响应响应项目$2
+(.*)[Hh]iding out of scope items(.*)	$1隐藏范围外的项目$2
+(.*)[Hh]iding out of scope, non-parameterized and not found items(.*)	$1隐藏范围外，没有参数，不存在的项目$2
+(.*)[Hh]iding out of scope, outgoing and incoming items(.*)	$1隐藏范围外，已发送和已接收的项目$2
+(.*)[Hh]iding out of scope, unrequested and non-parameterized items(.*)	$1隐藏范围外，无请求，没有参数的项目$2
+(.*)[Hh]iding out of scope, unrequested and not found items(.*)	$1隐藏范围外，无请求，不存在的项目$2
+(.*)[Hh]iding out of scope, unrequested, non-parameterized and not found items(.*)	$1隐藏范围外，无请求，没有参数，不存在的项目$2
+(.*)[Hh]iding out of scope, unresponded and non-parameterized items(.*)	$1隐藏范围外，未响应，没有参数的项目$2
+(.*)[Hh]iding outgoing and incoming items(.*)	$1隐藏已发送和已接收的项目$2
+(.*)[Hh]iding outgoing items(.*)	$1隐藏已发送的项目$2
+(.*)[Hh]iding specific extensions(.*)	$1隐藏指定的扩展名$2
+(.*)[Hh]iding unrequested and non-parameterized items(.*)	$1隐藏无请求，没有参数的项目$2
+(.*)[Hh]iding unrequested and not found items(.*)	$1隐藏无请求的,不存在的项目$2
+(.*)[Hh]iding unrequested items(.*)	$1隐藏无请求的项目$2
+(.*)[Hh]iding unrequested, non-parameterized and not found items(.*)	$1隐藏未请求，没有参数的,不存在的项目$2
+(.*)[Hh]iding unresponded and non-parameterized items(.*)	$1隐藏没有响应的,没有参数的项目$2
+(.*)[Hh]iding unresponded items(.*)	$1隐藏未响应的项目$2
+Contents	内容(Contents)
+Issues	漏洞问题(Issues)
+Host	host主机(Host)
+Method	请求方法(Method)
+URL	URL
+Params	参数(Params)
+Status	状态(Status)
+Length: ([,0-9]+)	长度： $1
+Length	长度(Length)
+MIME type	MIME类型(MIME type)
+Title	标题(Title)
+Comment	注释(Comment)
+Time requested	请求时间(Time requested)
+Request	请求(Request)
+Response	响应(Respons)
+Advisory	提示(Advisory)
+Raw	原始(Raw)
+Hex	16进制(Hex)
+Target Scope	目标范围(Target Scope)
+Define the in-scope targets for your current work. This configuration affects the behavior of tools throughout the suite. The easiest way to configure scope is to browse to your target and use the context menus in the site map to include or exclude URL paths.	定义当前工作的范围内目标, 此配置影响所有字段中工具的行为. 用正则表达式或者是简单的字符串, 最简单的配置范围的方法浏览到目标, 并使用站点地图的上下文菜单包含或排除URL路径.
+Use advanced scope control	使用高级范围设置
+Include in scope	包括以下内容在范围内(Include in scope)
+Add	添加
+Edit	编辑
+Remove	删除
+Paste URL	粘贴URL
+Load ...	从文件加载
+Enabled	启用(Enabled)
+Protocol	协议(Protocol)
+Host / IP range	主机/ IP范围(Host / IP range)
+Host or IP range:	主机或IP范围(Host or IP range)：
+Port	端口
+Exclude from scope	从范围中排除以下内容
+Add prefix	添加prefix(前缀)
+Prefix	prefix(前缀)
+OK	好的
+Specify a prefix for URLs you want to match.	请指定您要匹配的网址的prefix(前缀)
+Prefix:	前缀(Prefix)：
+Issue Definitions	漏洞问题定义(Issue Definitions)
+This listing contains the definitions of all issues that can be detected by Burp Scanner.	Burp Scanner可以检测到的所有问题的定义列表。
+Typical severity	漏洞等级(Typical severity)
+Type index	漏洞索引(Type index)
+OS command injection	系统命令注入(OS command injection)
+OS command injection(\s+\[[0-9]+\])?	OS命令注入$1
+Description	详细(Description)
+Description:	详细(Description):
+Params	参数(Params)
+Headers	请求头(Headers)
+Toggle message interception	控制拦截HTTP信息(按下将开启/关闭)
+Request to ([a-z].*)	$1 请求来自
+No proxy listeners are currently running - go to the Options tab to enable a listener	代理监听器未运行 - 请在代理的选项页面中上激活监听器。
+Intercept	拦截(Intercept)
+HTTP history	HTTP历史记录(HTTP history)
+WebSockets history	WebSocket历史记录(WebSockets history)
+Options	选项(Options)
+Comment this item	注释这个项目(Comment this item)
+Comment:	编辑注释(Comment)：
+Comments	注释(Comments)
+Comments:	编辑注释(Comments)：
+Highlight	高亮
+Edited	编辑
+Extension	文件类型(Extension)
+Listener port	监听端口(Listener port)
+Direction	方向(Direction)
+Proxy Listeners	代理监听器(Proxy Listeners)
+Burp Proxy uses listeners to receive incoming HTTP requests from your browser. You will need to configure your browser to use one of the listeners as its proxy server.	Burp Proxy使用监听器接收来自浏览器的HTTP请求。您需要在浏览器中将BURP的其中一个监听配置为代理服务器。
+Interface	接口(Interface)
+Invisible	透明代理(Invisible)
+Invisible proxy support allows non-proxy-aware clients to connect directly to the listener.	通过支持透明代理，代理不兼容的客户端可以直接连接到监听器。
+Invoke Burp extension	调用Burp扩展(Invoke Burp extension)
+Invoke a Burp extension	调用Burp扩展(Invoke a Burp extension)
+Redirect	重定向(Redirect)
+Each installation of Burp generates its own CA certificate that Proxy listeners can use when negotiating SSL connections. You can import or export this certificate for use in other tools or another installation of Burp.	每次安装Burp时，它都会生成自己的CA证书，并在代理监听器建立SSL连接时使用。此证书可以导入和导出，并可以与其他工具(比如浏览器)或其他计算机上安装的Burp一起使用。
+Each installation of Burp generates its own CA certificate that Proxy listeners can use when negotiating TLS connections. You can import or export this certificate for use in other tools or another installation of Burp.	每次安装Burp时，它都会生成自己的CA证书，并在代理监听器建立TLS连接时使用。此证书可以导入和导出，并可以与其他工具(比如浏览器)或其他计算机上安装的Burp一起使用。
+Import / export CA certificate	导入/导出CA证书
+Regenerate CA certificate	再次生成CA证书
+You can export your certificate and key for use in other tools, or in another installation of Burp. You can import a certificate and key to use in this installation of Burp. Note that you can also export the current certificate by visiting http://burp/cert in your browser.	您可以为其他工具和其他Burp实例导出此证书。您可以导入用于此Burp的证书和私钥。请注意，您还可以通过在浏览器中访问http://burp/cert来导出当前证书。
+Export	导出(Export)
+Certificate in DER format	DER格式的证书
+Private key in DER format	DER格式的密钥
+Certificate and private key from PKCS#12 keystore	来自PKCS＃12密钥库的证书和密钥
+Certificate and private key in PKCS#12 keystore	PKCS＃12密钥库证书和密钥
+Import	导入(Import)
+Certificate and private key in DER format	DER格式的证书和密钥
+Choose a file to export the CA certificate.	请选择要导出CA证书的文件。
+Select file ...	选择文件(Select file)......
+The certificate was successfully exported.	成功导出了证书。
+Close	关闭
+Are you sure you want to exit the wizard?	您确定要退出向导吗？
+Choose a file to export the private key. 	请选择要导出私钥的文件。
+Note: you should not disclose the private key for your CA certificate to any untrusted party.	注意：您不应向不受信任方披露CA证书私钥。
+This file already exists. Are you sure?	文件已存在。你确定替换吗？
+The private key was successfully exported.	成功导出了私钥。
+Choose a file to export the certificate and private key, and a password to use for the keystore. 	选择要导出证书和密钥的文件，然后输入要设置为密钥库的密码。
+Password:	密码：
+The certificate and private key were successfully exported.	成功导出了证书和私钥。
+Are you sure you want to regenerate Burp's CA certificate?	你想重新生成Burp的CA证书吗？
+To take effect, you will need to restart Burp, and then install the new certificate in your browser.	要使其生效的话，您需要重新启动Burp并在浏览器中安装新证书。
+Intercept Client Requests	拦截客户端请求
+Use these settings to control which responses are stalled for viewing and editing in the Intercept tab.	在拦截选项卡上停止并控制显示和编辑的响应。
+Use these settings to control which requests are stalled for viewing and editing in the Intercept tab.	在拦截选项卡上停止并控制显示或编辑的请求。
+Intercept requests based on the following rules:	拦截基于以下规则的请求：
+Operator	动作(Operator)
+Relationship	状态(Relationship)
+Condition	匹配条件(Condition)
+Up	向上
+Down	向下
+Automatically fix missing or superfluous new lines at end of request	在请求结束时自动修复丢失或多余的换行符
+Automatically update Content-Length header when the response is edited	编辑响应时自动更新Content-Length(长度)标头
+Specify the details of the form field completion rule.	请指定以下表单字段完成规则的详细信息。
+Specify the details of the interception rule.	请指定拦截规则的详细信息。
+Add request interception rule	添加请求拦截规则
+Boolean operator:	选择逻辑条件(and、or)(Boolean operator):
+Match type	目标(Match type)
+Domain name	域名(Domain name)
+IP address	IP地址(IP address)
+HTTP method	HTTP方法(HTTP method)
+File extension	文件扩展名(File extension)
+Match relationship:	匹配状态(Match relationship)：
+Matches	匹配符合的(Matches)
+Does not match	匹配不符合的(Does not match)
+Match condition:	匹配条件(支持正则表达式)：
+Certificate	证书(Certificate)
+Per-host	每个主机(Per-host)
+Select the file containing the CA certificate to import.	请选择包含要导入的CA证书的文件。
+Select the file containing the private key to import.	请选择包含要导入的密钥的文件。
+CA Certificate	CA证书
+Param name	参数名称(Param name)
+Param value	参数值(Param value)
+Cookie name	cookie名称(Cookie name)
+Cookie value	Cookie的值(Cookie value)
+Showing all items	显示所有项目(Showing all items)
+Hide outgoing messages	隐藏已发送的信息
+Hide incoming messages	隐藏已接收的信息
+Delete old temporary files?	您要删除旧的临时文件吗?
+Your temporary directory contains the following folders which appear to have been previously generated by Burp. Would you like to delete these?	您的临时目录包含以下文件，这些文件夹似乎是以前由Burp生成的。要删除这些文件吗
+Note: you should not delete these files if another instance of Burp is currently running.	注意：如果当前正在运行其他Burp实例, 则请不要删除这些文件.
+Leave	离开
+Delete	删除
+Match type:	匹配类型(Match type)
+Binding	捆绑(Binding)
+These settings control how Burp binds the proxy listener.	控制绑定代理监听器的方式。
+Bind to port:	绑定端口(Bind to port)：
+Bind to address:	绑定地址(Bind to address)：
+Loopback only	仅限环回地址(Loopback only)
+All interfaces	所有接口(All interfaces)
+Specific address:	指定地址(Specific address)：
+Scan details	扫描详细信息设置(Scan details)
+Scan Type	扫描类型(Scan Type)
+Crawl and audit	爬行和诊断(Crawl and audit)
+Crawl	爬行(Crawl)
+URLs to Scan	要扫描的URL
+Define the URLs to scan. Burp will begin crawling from these URLs, and by default will include everything beneath the specified URLs' folders.	请定义要扫描的URL。 Burp将开始从这些URL进行蜘蛛爬行，默认情况下它包含指定URL目录下的所有内容。
+Ignore protocols in URLs to scan	忽略要扫描的URL中的协议(或者规约?礼仪?)
+Detailed scope configuration	详细的范围设置
+You can configure a more detailed scope configuration using either URL prefixes or advanced matching rules. Note that the URLs to scan must fall within the defined scope, and will still be used as the starting point for the crawl.	您可以使用URL前缀或高级匹配规则配置更详细的作用域配置. 注意, 要扫描的url必须在定义的范围内, 并且仍将用作爬网的起点.
+Included URL prefixes	要包含的URL前缀(prefixes)
+Excluded URL prefixes	要排除的URL前缀
+Select from library	从库中选择
+Save to library	保存到库
+Save configuration to library	将配置保存到库
+Configuration name:	配置名称:
+Save	保存
+Built-in	内部配置(Built-in)
+Custom	自定义(Custom)
+Search...	搜索(Search)...
+Function	功能(Function)
+Last used	最后使用(Last used)
+Built-in	内部配置(Built-in)
+At least one URL to scan must be specified.	请指定至少一个要扫描的URL.
+At least one item to scan must be specified.	请指定至少一个要扫描的项目.
+At least one kind of analysis must be selected	必须至少选择一种类型的分析. 
+Some of the specified URLs to scan are out of scope.	要扫描的某些指定URL超出范围.
+Default configuration	默认设置
+Unauthenticated crawl. Estimating time remaining...	抓取未经身份验证的状态。估计剩余时间......
+([0-9]+) locations crawled	$1个已爬行的地方
+([0-9]+)\. Crawl and audit of (.*)	$1. $2个爬行和诊断
+Details	详细(Details)
+Task details	任务细节(Task details)
+Scan type:	扫描类型(Scan type)：
+Scope:	范围(Scope)：
+Configuration:	设置:
+Default configuration	默认设置
+Requests:	请求(Requests)：
+Errors:	错误(Errors):
+Unauthenticated crawl. Estimating time remaining...	未经过验证的蜘蛛爬虫爬取网站信息。估计剩余时间......
+Unique locations:	存在的地方(Unique locations)
+Hide	隐藏(Hide)
+Audit items	审核项目(Audit items)
+Passive phases	被动阶段(Passive phases)
+Active phases	活跃期(Active phases)
+JavaScript phases	JavaScript阶段(JavaScript phases)
+Requests	请求(Requests)
+Errors	错误(Errors)
+Insertion point	插入点(Insertion point)
+Start time	开始时间(Start time)
+Start time:	开始时间(Start time):
+End time	结束时间(End time)
+Scan Configuration	扫描设置
+Select configurations to control how the scan is carried out. You can select multiple configurations, and these will be applied in turn to determine the final configuration that is used for the scan. If no configurations are selected, then Burp Scanner's default settings will be used.	请选择控制扫描执行方法的设置。可以选择多个设置，按顺序应用这些设置，并确定最终用于扫描的设置。如果未选择任何设置，将使用Burp扫描仪的默认设置。
+New ...	新建 ...
+Crawling	爬行(Crawling)
+Auditing	审计(Auditing)
+Application Login	应用程序登录(Application Login)
+Application login	应用程序登录
+Specify the account credentials that should be submitted to any login functions. The crawler will use these to discover authenticated content behind login functions.	请指定要发送到登录功能的帐户凭据。爬网程序使用这些来在登录身份验证后检测内容。
+Label	标签(Label)
+Label:	标签(Label：
+Username	用户(Username)
+Resource Pool	资源池(Resource Pool)
+Resource pool	资源池(Resource pool)
+Specify the resource pool in which the scan will be run. Resource pools are used to manage the usage of system resources across multiple tasks.	请指定要扫描的资源池。资源池用于管理跨多个任务的系统资源使用情况。
+Use existing resource pool	使用现有资源池
+Selected	选择(Selected)
+Max concurrent requests	最大并发请求数
+Delay between requests	请求之间的延迟
+Delay between requests:	请求之间的延迟：
+Create new resource pool	创建一个新的资源池
+Maximum concurrent requests:	最大并发请求数：
+milliseconds	毫秒(milliseconds)
+Add random variations	添加随机变化(Add random variations)
+Scan configuration	扫描设置(Scan configuration)
+Application login	应用登录(Application login)
+Task Type	任务类型(Task Type)
+Live audit	实时诊断(Live audit)
+Live passive crawl	实时被动爬行(Live passive crawl)
+Choose predefined task...	选择预定义任务......
+Tools Scope	工具范围(Tools Scope)
+Select the tools whose traffic will be inspected to select items that are processed by the live scan.	请选择检查流量的工具，然后选择要在实时扫描中处理的项目。
+Select the tools whose traffic will be inspected to select items that are processed by the live task.	请选择检查流量的工具，然后选择要在实时任务中处理的项目。
+Define which items are processed by the live task, based on their URL.	根据实时任务的URL定义要处理的项目
+URL Scope	URL范围
+Everything	所有(Everything)
+Suite scope	套件范围(Suite scope)
+Custom scope	自定义范围(Custom scope)
+Deduplication	重复排除(Deduplication)
+Select whether items to be processed are deduplicated based on their URL and parameter names. Use this option to avoid scanning the same item more than once.	请根据URL和参数名称选择是否对要处理的项目进行重复数据删除。使用此选项，您不会多次扫描同一项目。
+Select whether items to be processed are deduplicated based on their URL and parameter names. Use this option to avoid processing the same item more than once.	请根据URL和参数名称选择是否对要处理的项目进行重复数据删除。使用此选项，您不会多次处理同一项目。
+Ignore duplicate items based on URL and parameter names	根据URL和参数名称忽略重复的项目
+Passively scan all traffic through Proxy	通过代理被动扫描所有流量
+Actively scan all in-scope traffic through Proxy	通过代理主动扫描所有的流量
+Add all items requested through Proxy to site map	将通过代理请求的所有项目添加到站点地图(site map)
+Add all links observed in traffic through Proxy to site map	将通过代理在流量中观察到的所有链接添加到站点地图(site map)
+Audit checks - passive	审计检查 - 被动
+Auditing	审计
+Expand the areas that you want to define in this configuration.	展开此配置中定义的范围。
+Audit Optimization	审计优化
+These settings let you control the behavior of the active scanning logic to reflect the objectives of the scan and the nature of the target application. See the detailed help for more information about each option.	根据扫描的目的和目标应用程序的性质，您可以控制主动扫描逻辑的行为。有关每个选项的详细信息，请参阅帮助。
+These settings let you control the behavior of the active audit logic to reflect the objectives of the audit and the nature of the target application. See the detailed help for more information about each option.	根据审计的目的和目标应用程序的性质，您可以控制主动审计逻辑的行为。有关每个选项的详细信息，请参阅帮助。
+Search	搜索
+Configuration library	配置库
+User options	用户选项(User options)
+Burp Clickbandit	Burp点击劫持
+Burp Clickbandit is a tool for generating clickjacking attacks. When you have found a web page that may be vulnerable to clickjacking, you can use Burp Clickbandit to create an attack, and confirm that the vulnerability can be successfully exploited.	Burp Clickbandit是一个生成点击劫持攻击的工具。当您发现网页可能容易受到点击劫持时，可以使用Burp Clickbandit创建攻击，并确认该漏洞可以成功利用。
+Burp Clickbandit runs in your browser using JavaScript. It works on all modern browsers except for Microsoft IE and Edge. To run Burp Clickbandit, use the following steps:	Burp Clickbandit使用JavaScript在浏览器中运行。它适用于除微软IE和Edge之外的所有现代浏览器。要运行Burp Clickbandit，请使用以下步骤：
+1. Click the "Copy Clickbandit to clipboard" button below. This will copy the Clickbandit script to your clipboard.	1.单击下面的“将Clickbandit复制到剪贴板”按钮。 这会将Clickbandit脚本复制到剪贴板。
+2. In your browser, visit the web page that you want to test, in the usual way.	2.在浏览器中，像往常一样访问要测试的网页。
+3. In your browser, open the web developer console. This might also be called "developer tools" or "JavaScript console".	3.在浏览器中，打开Web开发人员控制台。 这也称为“开发人员工具”或“JavaScript控制台”。
+4. Paste the Clickbandit script into the web developer console, and press enter.	4.将Clickbandit脚本粘贴到Web开发人员控制台中，然后按Enter键。
+See the documentation for more details on using Burp Clickbandit.	有关使用Burp Clickbandit的详细信息，请参阅文档。
+Note: Exercise caution when running Burp Clickbandit on untrusted websites. Malicious JavaScript from the target site can subvert the HTML output that is generated by Burp Clickbandit.	注意：在不受信任的网站上运行Burp Clickbandit时要小心。目标站点上的无效脚本可能会破坏Burp 
+Copy Clickbandit to clipboard	将Clickbandit复制到剪贴板
+Burp Collaborator client	Burp Collaborator客户端(类似于DNSlog平台)
+Exit	退出
+Restore defaults	恢复默认值
+Load user options	加载用户选项
+Save user options	保存用户选项
+Click "Copy to clipboard" to generate Burp Collaborator payloads that you can use in your own testing. Any interactions that result from using the payloads will appear below.	单击“复制到剪贴板”以生成可以在自己的测试中使用的Burp协作器有效负载。使用有效载荷产生的任何交互都将显示在下面。
+Generate Collaborator payloads	生成Collaborator有效载荷
+Number to generate:	生成数:
+Copy to clipboard	复制到剪贴板
+Include Collaborator server location	包括Collaborator服务器位置
+Poll Collaborator interactions	轮询协作者沟通
+Poll every	轮询间隔(Poll every)
+seconds	秒
+Poll now	现在轮询(Poll now)
+Are you sure you want to close this Burp Collaborator client? Any further interactions from its payloads will be lost.	您确定要关闭Burp Collaborator客户端吗？来自该payloads的后续通信将会丢失。
+DNS query	DNS查询(DNS query)
+Render	响应内容(Render)
+Request to Collaborator	发送至Collaborator请求包
+Response from Collaborator	来自Collaborator的响应包
+Intercept responses based on the following rules:	根据以下规则拦截响应：
+Automatically update Content-Length header when the request is edited	编辑请求时自动更新Content-Length(长度)标头
+Intercept WebSockets Messages	拦截WebSocket消息
+Intercept WebSockets messages	拦截WebSocket消息
+These settings are used to perform automatic modification of responses.	这些设置用于自动修改响应
+Unhide hidden form fields	强制显示隐藏表单字段(Unhide hidden form fields)
+Prominently highlight unhidden fields	突出显示未隐藏的字段(Prominently highlight unhidden fields)
+Enable disabled form fields	启用被禁用的表单字段(Enable disabled form fields)
+Remove input field length limits	删除输入字段长度限制(Remove input field length limits)
+Remove JavaScript form validation	删除JavaScript表单验证(Remove JavaScript form validation)
+Remove all JavaScript	删除所有JavaScript(Remove all JavaScript)
+Remove <object> tags	删除<object>标记(Remove <object> tags)
+Convert HTTPS links to HTTP	将HTTPS链接转换为HTTP(Convert HTTPS links to HTTP)
+Remove secure flag from cookies	从cookie中删除安全属性
+Load options	加载选项
+Save options	保存选项
+Intercept Server Responses	服务器响应拦截(Intercept Server Responses)
+Use these settings to control which WebSockets messages are stalled for viewing and editing in the Intercept tab.	在拦截选项卡上停止并控制要显示和编辑的WebSocket消息。
+Intercept client-to-server messages	拦截从客户端到服务器的消息
+Intercept server-to-client messages	拦截从服务器到客户端的消息
+Response Modification	响应操作(Response Modification)
+Master interception is turned off     	主动代理拦截被关闭
+Match and Replace	搜索和替换(Match and Replace)
+These settings are used to automatically replace parts of requests and responses passing through the Proxy.	这些设置用于自动替换通过代理传递的部分请求和响应。
+Request header	请求头(Request header)
+Item	项目(Item)
+Match	匹配条件(Match)
+Replace	替换(Replace)
+Add match/replace rule	添加搜索/替换规则(Add match/replace rule)
+Specify the details of the form field completion rule.	请指定表单字段完成规则详细信息。
+Regex condition to match - leave blank to add a new header	搜索条件(支持正则) - 为新标题添加留空
+Literal string to replace - leave blank to remove a matched header	替换字符串(支持正则) - 如果要删除匹配的标题，请留空
+Regex match	正则匹配(Regex match)
+Request body	Request body(请求包的正文)
+Response header	Response header(响应包的头)
+Response body	Response body(响应包的body)
+Request param name	Request param name(请求包的参数名称)
+Request param value	Request param value(请求包的值)
+Request first line	Request first line(请求头的第一行)
+Type:	类型(Type):
+Match:	匹配条件(Match):
+Replace:	替换(Replace):
+Path	路径(Path)
+Request handling	请求处理(Request handling)
+These settings control whether Burp redirects requests received by this listener.	控制监听器如何重定向收到的请求。
+Redirect to host:	重定向目标主机(Redirect to host)：
+Redirect to port:	重定向目标端口(Redirect to port)：
+Force use of SSL	强制使用SSL(Force use of SSL)
+Force use of TLS	强制使用TLS(Force use of TLS)
+Support invisible proxying (enable only if needed)	支持隐形代理invisible proxying（仅在需要时启用）
+These settings control the server SSL certificate that is presented to SSL clients.	控制提交给SSL客户端的SSL服务器证书。
+These settings control the server TLS certificate that is presented to TLS clients.	控制提交给TLS客户端的TLS服务器证书。
+Use a self-signed certificate	使用自签名证书
+Generate CA-signed per-host certificates	生成每个主机签名per-host certificates的CA证书
+Generate a CA-signed certificate with a specific hostname:	生成具有特定主机名specific hostname的CA签名证书：
+Use a custom certificate (PKCS#12):	使用自定义证书(PKCS＃12):
+Any header	任何标题(Any header)
+Add response interception rule	添加响应监听规则(Add response interception rule)
+Status code	状态码(Status code)
+Content type header	内容类型标题(Content type header)
+Mime type	MIME类型(Mime type)
+Page title	页面标题(Page title)
+Add SSL passthrough target	添加SSL传递的目标(Add SSL passthrough target)
+Add TLS passthrough target	添加TLS传递的目标(Add TLS passthrough target)
+Specify the host and port details for the target, or leave blank to match any item. An IP range can be specified instead of a hostname.	指定目标的主机和端口详细信息，或留空以匹配任何项。可以指定主机名(host)以及IP范围。
+Port:	端口(Port)：
+Enter regex, IP range or leave blank	输入正则表达式、IP范围、或将其留空
+Enter regex or leave blank	输入正则表达式或将其留空
+Automatically add entries on client SSL negotiation failure	在客户端SSL协商失败时自动添加条目(Automatically add entries on client SSL negotiation failure	)
+Automatically add entries on client TLS negotiation failure	在客户端TLS协商失败时自动添加条目(Automatically add entries on client TLS negotiation failure	)
+Use HTTP/1.0 in requests to server	使用HTTP / 1.0来请求服务器(Use HTTP/1.0 in requests to server)
+Use HTTP/1.0 in responses to client	使用HTTP / 1.0响应客户端(Use HTTP/1.0 in requests to server)
+Set "Connection close" on incoming requests	将“Connection close”设置为接收请求(Set "Connection close" on incoming requests)
+Strip Proxy-* headers in incoming requests	从收到的请求中删除Proxy- *标头(Strip Proxy-* headers in incoming requests)
+Remove unsupported encodings from Accept-Encoding headers in incoming requests	从已接收请求的Accept-Encoding标头中删除不受支持的编码(Remove unsupported encodings from Accept-Encoding headers in incoming requests)
+Strip Sec-WebSocket-Extensions headers in incoming requests	从传入请求中删除Sec-WebSocket-Extensions标头(Strip Sec-WebSocket-Extensions headers in incoming requests)
+Unpack gzip / deflate in requests	展开请求的gzip / deflate(Unpack gzip / deflate in requests)
+Unpack gzip / deflate in responses	展开响应gzip / deflate(Unpack gzip / deflate in responses)
+Disable web interface at http://burp	禁用http://burp的Web界面(Disable web interface at http://burp)
+Suppress Burp error messages in browser	禁用浏览器的Burp错误消息(Suppress Burp error messages in browser)
+Don't send items to Proxy history or live tasks	不要将项目发送到代理历史记录(Proxy history)或实时任务(live tasks)
+Don't send items to Proxy history or live tasks, if out of scope	如果超出范围，请不要将项目发送到代理历史记录(Proxy history)或实时任务((live tasks)
+These settings are used to specify destination web servers for which Burp will directly pass through SSL connections. No details about requests or responses made via these connections will be available in the Proxy intercept view or history.	指定目标Web服务器以直接传递SSL连接。这些连接生成的请求和响应的详细信息无法显示在代理拦截或历史记录中。
+Miscellaneous	其他设置(Miscellaneous)
+These settings control some specific details of Burp Proxy's behavior. You can change the default settings here to deal with particular problems or situations.	这是一个控制Burp Proxy详细操作的设置。您可以更改默认设置以解决特定问题和情况。
+Paste	粘贴(Paste)
+Clear	清除(Clear)
+You can define one or more payload sets. The number of payload sets depends on the attack type defined in the Positions tab. Various payload types are available for each payload set, and each payload type can be customized in different ways.	您可以定义一个或多个有效负载集(payload sets)。有效负载集(payload sets)的数量取决于“位置(Positions)”选项卡中定义的攻击类型。每个有效负载集(payload sets)可以使用各种有效负载类型(payload type)，并且可以以各种方式定制每种有效负载类型(payload type)。
+Payload set:	Payload集(Payload set)：
+Payload type:	Payload类型(Payload type)：
+Payload Set:	Payload集(Payload set)：
+Payload Sets	Payload集(Payload set)
+Payload count:	Payload数量(Payload count)：
+Request count:	请求数量(Request count)：
+Payload Processing	Payload处理(Payload Processing)
+You can define rules to perform various processing tasks on each payload before it is used.	您可以定义在使用有效负载之前对每个有效负载(payload)执行各种处理任务(tasks)的规则。
+Enter a new item	输入新项目(Enter a new item)
+Add payload processing rule	添加payload处理规则(Add payload processing rule)
+Enter the details of the payload processing rule.	请输入payload处理规则的详细信息(Enter the details of the payload processing rule.)
+Select rule type	请选择规则类型(Select rule type)
+Add suffix	添加后缀(Add suffix)
+Match/replace	搜索/替换(Match/replace)
+Substring	截取字符串(Substring)
+Reverse substring	反向截取字符串(Reverse substring)
+Modify case	Modify case
+Encode	编码(Encode)
+Decode	解码(Decode)
+Add raw payload	添加原始payload(Add raw payload)
+Skip if matches regex	Skip if matches regex(检查是否与正则表达式匹配，如果是则跳过payload以及继续下一个)
+Select processor:	选择扩展(Select processor)：
+Configure the positions where payloads will be inserted into the base request. The attack type determines the way in which payloads are assigned to payload positions - see help for full details.	配置将payloads插入基本请求的位置。攻击类型决定了payloads分配到哪个位置的方式-如果需要有关的详细信息，请参阅帮助。(Configure the positions where payloads will be inserted into the base request. The attack type determines the way in which payloads are assigned to payload positions - see help for full details.)
+Payload Positions	payload位置(Payload Positions)
+Attack type:	攻击类型(Attack type):
+Sniper	狙击手-单个payload(Sniper)
+Battering ram	撞击物-一组payload(Battering ram)
+Pitchfork	交叉-多个payload集(Pitchfork)
+Cluster bomb	集束炸弹-多个Payload集合(Clusterbomb)
+Start attack	开始攻击(Start attack)
+Payload Options	Payload选项(Payload Options)
+This payload type lets you configure a simple list of strings that are used as payloads.	此处payload类型允许您配置用作payload的简单清单。(This payload type lets you configure a simple list of strings that are used as payloads)
+Simple list	简单列表(Simple list)
+Payload Options [Simple list]	Payload选项[简单列表]
+Runtime file	指定文件(Runtime file)
+Custom iterator	自定义迭代器(Custom iterator)
+Configure the details of the target for the attack.	请设置攻击目标的详细信息。(Configure the details of the target for the attack.)
+Use HTTPS	使用HTTPS(Use HTTPS)
+([0-9]+) payload positions	配置 $1 个payload位置(payload positions)
+Add §	添加payload位置 §(Add §)
+Auto §	自动添加payload位置 §(Auto §)
+Clear §	清除payload位置 §(Clear §)
+Refresh	刷新(Refresh)
+Payload Options [Runtime file]	payload选项[指定文件]
+Payload Options [Custom iterator]	payload选项[自定义迭代器]
+This payload type lets you configure a file from which to read payload strings at runtime.	您可以载入文件里的payload。
+Payload Encoding	Payload编码(Payload Encoding)
+This setting can be used to URL-encode selected characters within the final payload, for safe transmission within HTTP requests.	为了安全地发送HTTP请求，最终的payload将会对框框内容进行URL编码，如果不需要，可以取消勾勾。
+URL-encode these characters:	URL编码这些字符(URL-encode these characters)：
+These settings are used to specify destination web servers for which Burp will directly pass through SSL connections. No details about requests or responses made via these connections will be available in the Proxy intercept view or history.	这些设置用于指定Burp将直接通过SSL连接的目标web服务器。代理拦截视图或历史记录中不提供通过这些连接发出的请求或响应的详细信息。
+These settings are used to specify destination web servers for which Burp will directly pass through TLS connections. No details about requests or responses made via these connections will be available in the Proxy intercept view or history.	这些设置用于指定Burp将直接通过TLS连接的目标web服务器。代理拦截视图或历史记录中不提供通过这些连接发出的请求或响应的详细信息。
+Scan	扫描(Scan)
+Do passive scan	被动扫描(Do passive scan)
+Do active scan	主动扫描(Do active scan)
+Send to (Comparer|Decoder|Intruder|Repeater|Sequencer|Spider|SQLMapper|Laudanum|reCAPTCHA)	发送给$1(Send to $1)
+Request in browser	通过浏览器请求(Request in browser)
+Engagement tools	相关工具(Engagement tools)
+Change request method	修改请求方法(Change request method)
+Change body encoding	修改body编码(Change body encoding)
+Copy URL	复制网址(Copy URL)
+Copy as curl command	复制curl命令(Copy as curl command)
+Copy to file	复制到文件(Copy to file)
+Paste from file	从文件粘贴(Paste from file)
+Save item	保存项目(Save item)
+Don't intercept requests	不拦截请求包(Don't intercept requests)
+Don't intercept responses	不拦截响应包(Don't intercept responses)
+Convert selection	转换所选内容(Convert selection)
+URL-encode as you type	URL编码输入(URL-encode as you type)
+Cut	剪贴(Cut)
+Copy	复制(Copy)
+Message editor documentation	消息编辑器文档(Message editor documentation)
+Proxy interception documentation	代理拦截文档(Proxy interception documentation)
+In original session	在原始会话(In original session)
+In current browser session	在当前浏览器会话(In current browser session)
+Find references	搜索references(Find references)
+Discover content	内容搜索(Discover content)
+Schedule task	安排任务(Schedule task)
+Generate CSRF PoC	生成CSRF PoC(Generate CSRF PoC)
+Response to this request	此请求的响应(Response to this request)
+Do intercept	拦截(Do intercept)
+To this IP address	这个IP地址(To this IP address)
+To this host	这个host(To this host)
+For this directory	这个目录(For this directory)
+For this file extension	这个文件扩展名(For this file extension)
+Construct string	构造字符串(Construct string)
+URL-decode	URL解码(URL-decode)
+URL-encode key characters	对特殊字符URL编码(URL-encode key characters)
+URL-encode all characters	对所有字符URL编码(URL-encode all characters)
+URL-encode all characters (Unicode)	对所有字符URL编码(Unicode)
+HTML-decode	HTML解码(HTML-decode)
+HTML-encode key characters	对特殊字符HTML编码(HTML-encode key characters)
+HTML-encode all characters	对所有字符HTML编码(HTML-encode all characters)
+HTML-encode all characters (hex entities)	HTML编码所有字符(请参阅十六进制)(HTML-encode all characters)
+HTML-encode all characters (numeric entities)	HTML编码所有字符(请参阅十进制)(HTML-encode all characters)
+Base64-encode	Base64编码(Base64-encode)
+Base64-decode	Base64解码(Base64-decode)
+Construct string in JavaScript	JavaScript字符串生成(Construct string in JavaScript)
+Construct string in Microsoft SQL Server	Microsoft SQL Server字符串生成(Construct string in Microsoft SQL Server)
+Construct string in MySQL	MySQL字符串生成(Construct string in MySQL)
+Construct string in Oracle	Oracle字符串生成(Construct string in Oracle)
+This payload type lets you configure multiple lists of items, and generate payloads using all permutations of items in the lists.	此payload类型允许您配置多个项目列表，并使用列表中所有项目的排列生成payloads。
+Position:	位置:
+Character substitution	字符替换(Character substitution)
+Payload Options [Character substitution]	Payload选项[字符替换]
+This payload type lets you configure a list of strings and apply various character substitutions to each item.	此payload类型允许您配置字符串列表并对每个项应用各种不同的字符替换。
+Character substitutions	字符替换(Character substitutions)
+Case sensitive match	区分大写和小写字母(Case sensitive match)
+Case modification	大小写字母转换(Case modification)
+Payload Options [Case modification]	Payload选项[大小写字母转换]
+This payload type lets you configure a list of strings and apply various case modifications to each item.	此payload类型允许您配置字符串列表并对每个项应用各种大小写修改.
+Case modifications	转换方法(Case modifications)
+No change	不改变(No change)
+To lower case	转换为小写(To lower case)
+To upper case	转换为大写(To upper case)
+To ProperName	To Propername
+To Propername	To ProperName
+Items	项目(Items)
+Payload Options [Recursive grep]	Payload选项[递归匹配]
+Recursive grep	递归匹配(Recursive grep)
+This payload type lets you extract each payload from the response to the previous request in the attack. It is useful in some situations where you need to work recursively to extract useful data or deliver an exploit. Extract grep items can be defined in the Options tab.	此payload类型允许您从对攻击中的前一个请求的响应中提取每个有效负载。在某些需要递归工作以提取有用数据或提供利用漏洞的情况下，它非常有用。提取grep项可以在选项选项卡中定义。
+Initial payload for first request:	第一个请求的初始payload(Initial payload for first request：
+Stop if duplicate payload found	检测到重复有效负载时停止(Stop if duplicate payload found)
+Illegal Unicode	非法的Unicode(Illegal Unicode)
+Payload Options [Illegal Unicode]	Payload选项[非法的Unicode]
+This payload type can be used to generate illegal Unicode representations of characters. It is sometimes effective in bypassing filters designed to block certain characters. See the full help for details of each option.	此payload类型可用于生成字符的非法Unicode表示形式。它有时可以有效地绕过设计用于阻止某些字符的过滤器。有关每个选项的详细信息，请参阅完整帮助。
+Overlong UTF-8 encodings	过长的UTF-8编码(Overlong UTF-8 encodings)
+Maximum length:	最大长度(Maximum length):
+bytes	字节(bytes)
+Illegal UTF-8 continuation bytes	非法的UTF-8连续字节(Illegal UTF-8 continuation bytes)
+Do illegal UTF-8	非法的UTF-8(Do illegal UTF-8)
+Maximize permutations in multi-byte encodings	多字节编码的最大组合(Maximize permutations in multi-byte encodings)
+Illegal hex characters	非法的十六进制字符(Illegal hex characters)
+Do illegal hex	非法的十六进制(Do illegal hex)
+Hex formatting	十六进制格式(Hex formatting)
+Use lower case alpha characters	使用小写字母字符(Use lower case alpha characters)
+Add % prefix before each byte	在每个字节前添加％(Add % prefix before each byte)
+Total encodings	总编码数(Total encodings)
+Stop at maximum:	要停止的最大数量(Stop at maximum)：
+Match / replace in list items	搜索和替换列表项(Match / replace in list items)
+Match character:	搜索字符(Match character)：
+Replace with encodings of:	要编码和替换的字符：
+Character blocks	字符块(Character blocks)
+Payload Options [Character blocks]	Payload选项[字符块]
+This payload type generates payloads based on blocks of a specified character or string. It can be useful for detecting buffer overflows and exploiting some logic flaws.	根据指定的字符或字符串块生成payload。它对缓冲区溢出检测和逻辑流攻击很有用。
+Base string:	原始字符串(Base string):
+Min length:	最短长度(Min length):
+Max length:	最大长度(Max length):
+Step:	增量(Step)：
+Numbers	数值(Numbers)
+Payload Options [Numbers]	Payload选项[数值]
+This payload type generates numeric payloads within a given range and in a specified format.	生成给定范围内指定格式的有效数值内容。
+Number range	数字范围(Number range)
+Sequential	连续的(Sequential)
+Random	随机的(Random)
+From:	从(From):
+To:	到(To):
+Step:	间隔(Step):
+How many:	多少(How many)：
+Number format	数值格式(Number format)
+Base:	基础(Base)：
+Decimal	十进制(Decimal)
+Min integer digits:	整数部分的最小位数(Min integer digits)：
+Max integer digits:	整数部分的最大位数(Max integer digits)：
+Min fraction digits:	分数(小数)最小位数(Min fraction digits)：
+Max fraction digits:	分数(小数)最大位数(Max fraction digits)：
+Examples	例子(Examples)
+This payload type lets you configure a list of strings and apply various case modifications to each item.	此payload类型允许您配置字符串列表并对每个项应用各种大小写修改。
+Select the "extract grep" item from which to derive payloads:	选择“extract grep”项以获取payloads(Select the "extract grep" item from which to derive payloads)：
+Estimated encodings:	预期编码数量(Estimated encodings)：
+Payload Options [Dates]	Payload选项[日期]
+Dates	日期(Dates)
+This payload type generates date payloads within a given range and in a specified format.	生成给定范围内指定格式的日期有效内容的payload。
+Format:	格式(Format):
+January	1月(January)
+December	12月(December)
+February	2月(February)
+March	3月(March)
+April	4月(April)
+May	5月(May)
+July	7月(July)
+June	6月(June)
+August	8月(August)
+September	9月(September)
+October	10月(October)
+November	11月(November)
+Days	日(Days)
+Weeks	周(Weeks)
+Months	月(Months)
+Years	年(Years)
+Brute forcer	爆破(Brute forcer)
+Payload Options [Brute forcer]	Payload选项[爆破]
+This payload type generates payloads of specified lengths that contain all permutations of a specified character set.	从指定的长度和字符集生成所有组合的payload。
+Character set:	字符集(Character set)：
+Rule	规则(Rule)
+Null payloads	Null payloads
+Payload Options [Null payloads]	Payload选项[Null payloads]
+This payload type generates payloads whose value is an empty string. With no payload markers configured, this can be used to repeatedly issue the base request unmodified.	它生成一个payload值为空的字符串。无需设置payload标记，可以在不更改基本请求的情况下重复发送。
+Generate	生成(Generate)
+Continue indefinitely	无限重复(Continue indefinitely)
+Payload Options [Character frobber]	Payload选项[Character frobber]
+Character frobber	字符frobber(Character frobber)
+This payload type operates on a string input and modifies the value of each character position in turn. It is useful to quickly test which parts of a long string have an effect on the application's processing.	此payload类型对字符串输入进行操作，并依次修改每个字符位置的值。快速测试长字符串的哪些部分对应用程序的处理有影响是有用的。。
+Operate on:	操作(Operate on)：
+Base value of payload position	有效负载位置原始值(Base value of payload position)
+Specific string:	特定字符串(Specific string):
+Bit flipper	Bit翻转(Bit flipper)
+Payload Options [Bit flipper]	payload选项[bit 翻转]
+This payload type operates on an input and modifies the value of each bit position in turn. It can sometimes be used to meaningfully modify the decrypted values of CBC-encrypted data, and potentially interfere with application logic.	该Payload类型相对于输入值顺序地改变每个比特位置的值。在某些情况下，您可以对CBC加密数据进行有意义的更改，或者可能会干扰应用程序逻辑。
+Format of original data:	原值格式(Format of original data)：
+Literal value	文本值(Literal value)
+Encoded as ASCII hex	编码成ASCII十六进制(Encoded as ASCII hex)
+Select bits to flip:	选择要反转的bit(Select bits to flip)：
+Username generator	用户名生成器(Username generator)
+Payload Options [Username generator]	Payload选项[用户名生成器]
+This payload type lets you configure a list of names or email addresses, and derives potential usernames from these using various common schemes. You can enter items as "firstname lastname" or "firstname.lastname@example.org".	这payload类型可以设置了一个名称和电子邮件地址列表，然后使用通用生成规则来生成各种潜在的用户名。例如：您可以输入带有“名字姓氏”或“名字姓氏@ example.org”的项目。
+Maximum payloads per item:	每个项目的payloads数量(Maximum payloads per item)：
+ECB block shuffler	ECB 加密块洗牌(ECB block shuffler	ECB Block Shuffle)
+Payload Options [ECB block shuffler]	Payload选项[ECB 加密块洗牌]
+This payload type can be used to shuffle blocks of ciphertext in ECB-encrypted data, so as to meaningfully modify the decrypted cleartext and potentially interfere with application logic. You can optionally supply a list of encrypted strings that use the same cipher and key, to provide additional blocks for shuffling into the original data.	这种payload类型可用于洗牌ECB加密数据中的密文块，以便有意义地修改解密的明文并可能干扰应用程序逻辑。您可以选择提供使用相同密码和密钥的加密字符串的列表，以提供附加块，以便重新洗牌到原始数据中。
+Encrypted data to shuffle:	要加密的加密数据(Encrypted data to shuffle)：
+Block size (usually 8 or 16):	块大小(Block size)（通常为8或16）：
+Extension-generated	通过扩展生成(Extension-generated)
+Payload Options [Extension-generated]	Payload选项[由扩展程序生成]
+Selected generator:	选定的生成器(Selected generator):
+[NOT SELECTED]	[未选中]
+Select generator ...	选择生成器(Select generator)...
+Copy other payload	复制其他payload(Copy other payload)
+This payload type copies the value of the current payload at another payload position. It can be used with attack types that have multiple payload sets.	此payload类型将另一个payload的值复制到当前payload的值。它可以与使用多个payload集的攻击类型一起使用。
+Copy from position:	来源位置(Copy from position)：
+Request Headers	请求头(Request Headers)
+These settings control whether Intruder updates the configured request headers during attacks.	控制Intruder是否在攻击期间更新已配置的请求头。
+Update Content-Length	更新Content-Length头(Update Content-Length)
+Set Connection: close	设置Connection: close(Set Connection: close)
+Select payload generator	选择payload生成器(Select payload generator)
+Select the extension-provided payload generator that you want to use. Burp extensions can be loaded using the Extender tool.	请从生成有效内容的扩展中选择要使用的那个。扩展器可以读取Burp扩展。
+Extension payload generator:	扩展的有效载荷
+No generators defined	生成器未定义。
+Update Content-Length header	更新Content-Length头(Update Content-Length header)
+Request Engine	请求引擎设置(Request Engine)
+Number of threads:	线程数(Number of threads)：
+Number of retries on network failure:	网络错误的重试次数(Number of retries on network failure)：
+Pause before retry (milliseconds):	重试前暂停(Pause before retry)(ms)：
+Throttle (milliseconds):	延迟(ms)(Throttle):
+Fixed	固定延迟(Fixed)
+Variable:  start	变化(Variable)：初始
+step	增量(step)
+Immediately	立刻(Immediately)
+In	在(In)
+minutes	分钟后(minutes)
+These settings control the engine used for making HTTP requests when performing attacks.	控制在攻击执行期间用于创建HTTP请求的引擎。
+Attack Results	攻击结果设置
+These settings control what information is captured in attack results.	设置要在攻击结果中捕获的信息。
+Store requests	保存请求(Store requests)
+Store responses	保存回复(Store responses)
+Make unmodified baseline request	生成未修改的基本请求(Make unmodified baseline request)
+Use denial-of-service mode (no results)	使用拒绝服务模式(无结果)(Use denial-of-service mode (no results))
+Store full payloads	保存所有payloads(Store full payloads)
+Simple string	简单的字符串(Simple string)
+These settings can be used to flag result items containing specified expressions.	这些设置可用于flag包含指定表达式的结果项。
+Flag result items with responses matching these expressions:	将flag设置为与这些字符串匹配的响应(Flag result items with responses matching these expressions)：
+These settings can be used to extract useful information from responses into the attack results table.	我们从响应包中提取有用信息并将其显示在攻击结果列表中。
+Extract the following items from responses:	从响应包中提取以下项目：
+Failed to retrieve response	无法得到回应包
+The request has not yet been issued - click "Fetch response" to issue it	请求尚未发出-单击“获取响应”(Fetch response)以发出它
+Define extract grep from response	从响应中定义提取的grep(Define extract grep from response)
+Define the location of the item to be extracted. Selecting the item in the response panel will create a suitable configuration automatically. You can also modify the configuration manually to ensure it works effectively.	定义要提取的项目的位置。在响应面板中选择项目时，将自动创建相应的设置。您也可以手动更改设置以有效工作。
+Define start and end	定义开始和结束(Define start and end)
+Extract from regex group	从正则表达式组中提取(Extract from regex group)
+Start after expression:	在表达式之后开始(Start after expression)：
+Start at offset:	从偏移开始(Start at offset)：
+End at delimiter:	以此分隔符结束(End at delimiter)：
+End at fixed length:	以固定长度结束(End at fixed length)：
+Exclude HTTP headers	排除HTTP头(Exclude HTTP headers)
+Update config based on selection below	根据以下选择更新设置(Update config based on selection belo)
+Fetch response	获取回复(Fetch response)
+Duplicate	复制(Duplicate)
+Maximum capture length:	提取的最大长度(Maximum capture length):
+These settings can be used to flag result items containing reflections of the submitted payload.	这些设置可用于标记(flag)包含已提交payload的结果项。
+Search responses for payload strings	搜索含有payload字符串的响应(Search responses for payload strings)
+Match against pre-URL-encoded payloads	在URL编码之前匹配payloads(Match against pre-URL-encoded payloads)
+Redirections	重定向(Redirections)
+These settings control how Burp handles redirections when performing attacks.	控制执行攻击时如何处理重定向。
+Follow redirection:	跟随重定向(Follow redirection):
+Never	不要这样做(Never)
+On-site only	只有当时同一个网站才跟随(On-site only)
+In-scope items only	仅范围内的项目才跟随(In-scope items only)
+Always	总是(Always)
+Process cookies in redirections	在重定向期间处理cookie(Process cookies in redirections)
+Add from list ...	从列表(list)中添加...
+Add to scope	添加到scope(范围)
+Send to Comparer (request)	发送给Comparer（请求request）
+Send to Comparer (requests)	发送给Comparer（请求requests）
+Send to Comparer (response)	发送给Comparer（响应response）
+Send to Comparer (responses)	发送给Comparer（响应responses）
+Show response in browser	在浏览器中显示响应(Show response in browser)
+In current session	在当前会话中(In current session)
+Show new history window	显示新的历史窗口(Show new history window)
+Add comment	添加注释(Add comment)
+Delete item	删除项目(Delete item)
+Clear histories	清除历史(Clear histories)
+Clear history	清除历史(Clear histories)
+Copy link	复制链接(Copy link)
+Copy links	复制链接(Copy link)
+Proxy history documentation	代理历史记录文档(Proxy history documentation)
+Restore original value	恢复原始值
+Set severity	设定风险等级(Set severity)
+Set confidence	设置信任级别(Set confidence)
+Report issue	生成问题报告(Report issue)
+Report issues	生成问题报告(Report issues)
+Burp Scanner reporting wizard	Burp扫描仪报告向导
+Choose the format for the report.	请选择报告格式。
+Base64-encode requests and responses	使用Base64编码请求和响应包
+Select the types of details to include in the report.	请选择要包含在报告中的详细信息。
+Issue background	漏洞问题(Issue background)
+Remediation background	修复方法(Remediation background)
+References	参照(References)
+Issue detail [where applicable]	漏洞问题详情(Issue detail)[如果适用]
+Remediation detail [where applicable]	修复方法详情[适用时]
+Vulnerability classifications [where applicable]	漏洞分类(Vulnerability classifications)[如果适用]
+Report completed	报告已完成
+Report size: ([,0-9]+) bytes	报告大小：$1字节
+Select the types of issues to include in the report.	请选择要包含在报告中的问题。
+Select all	全选(Select all)
+Select none	取消(Select none)
+Select how HTTP request messages should appear in the report.	请选择如何在报告上放置HTTP请求消息。
+Select how HTTP response messages should appear in the report.	请选择如何在报告上放置HTTP响应消息。
+Do not include requests	不包括请求(Do not include requests)
+Include relevant extract	提取相关部分(Include relevant extract)
+Include full requests	包括完整的请求包(Include full requests)
+Include full responses	包括完整的响应包(Include full responses)
+Limit to	限制(Limit to)
+Do not include responses	不包含响应包(Do not include responses)
+Select the file where the report will be saved.	请选择一个文件来保存报告。
+Specify the title and structure to use in the report.	请输入报告的标题名称。
+Report title	报告标题(Report title)
+Issue organization	问题分配(organization)
+Table of contents levels	内容级别(Table of contents levels)
+Summary table	汇总表(Summary table)
+Summary bar chart	摘要条形图(Summary bar chart)
+Embed images within HTML (requires modern browser)	在HTML中嵌入图片（需要最新的浏览器）
+By type	按类型(By type)
+By severity	按等级(By severity)
+By URL	按URL(By URL)
+All issues	所有问题(All issues)
+High, medium and low issues	高，中，低风险问题(High, medium and low issues)
+High and medium issues	高，中风险问题(High and medium issues)
+High issues	高风险问题(High issues)
+No summary table	没有汇总表(No summary table)
+Failed to open file	无法打开文件
+Tabs	标签栏(Tabs)
+Left/right split	左右分栏(Left/right split)
+Show new site map window	在新窗口中显示站点地图(site map)
+Site map documentation	站点地图的文档(Site map documentation)
+Report issues for this host	生成此host主机问题的报告
+Delete issues for this host	删除此host主机的问题
+Compare site map	比较站点地图(Compare site map)
+Compare site maps	比较站点地图(Compare site maps)
+Configure target details	设定目标的详情(Configure target details)
+Specify the details of the server to which the request will be sent.	请指定发送请求的服务器的详细信息。
+Are you sure you want to delete the selected item?	您确定要删除所选项吗？
+Are you sure you want to delete the selected items?	您确定要删除所选项吗？
+Are you sure you want to delete all issues for the selected item?	您确定要删除所有的项目吗？
+Passively scan this host	对这个host主机进行被动扫描
+Actively scan this host	对这个host主机进行主动扫描
+Expand branch	展开分支(Expand branch)
+Expand requested items	展开请求的项目(Expand requested items)
+Delete host	删除主机(Delete host)
+Copy URLs in this host	将此主机的URL(Copy URLs in this host)
+Copy links in this host	将此主机的链接(Copy links in this host)
+Save selected items	保存所选项目(Save selected items)
+View	查看(View)
+Find comments	搜索注释(Find comments)
+Find scripts	搜索scripts(Find scripts)
+Analyze target	目标分析(Analyze target)
+Simulate manual testing	模拟手动测试(Simulate manual testing)
+Delete issue	删除问题(Delete issue)
+Delete issues	删除问题(Delete issues)
+Select Live Capture Request	选择实时捕获请求(Select Live Capture Request)
+Send requests here from other tools to configure a live capture. Select the request to use, configure the other options below, then click "Start live capture".	从其他工具发送实时捕获设置请求。请选择要使用的请求，设置其他选项，然后单击“开始实时捕获”。
+Start live capture	开始实时捕捉(Start live capture)
+Token Location Within Response	令牌位置作出回应(Token Location Within Response)
+Select the location in the response where the token appears.	请选择令牌在响应中显示的位置。(Select the location in the response where the token appears.)
+Form field:	表格字段(Form field)：
+Custom location:	自定义位置(Custom location)：
+Configure	设定(Configure)
+Live Capture Options	实时捕捉选项(Live Capture Options)
+These settings control the engine used for making HTTP requests and harvesting tokens when performing the live capture.	配置引擎的行为以在执行实时捕获和收集令牌时生成HTTP请求。
+Throttle between requests (milliseconds):	请求之间的限制(Throttle between requests)(ms)：
+Ignore tokens whose length deviates by	忽略tokens的长度偏移(tokens) 
+characters	个字符(characters)
+Manual Load	手动加载(Manual Load)
+This function allows you to load Sequencer with a sample of tokens that you have already obtained, and then perform the statistical analysis on the sample.	您可以将已获取的标记的样本加载到Sequencer中，然后执行样本的统计分析。
+Analyze now	立刻分析(Analyze now)
+Tokens loaded:	载入Tokens(Tokens loaded)：
+Shortest:	最短(Shortest):
+Longest:	最长(Longest):
+Analysis Options	分析选项(Analysis Options)
+Analysis options	分析选项(Analysis options)
+Live capture	实时捕捉(Live capture)
+Manual load	手动加载(Manual load)
+Token Handling	令牌处理(Token Handling)
+These settings control how tokens are handled during analysis.	这些设置控制令牌在分析期间的处理。
+Pad short tokens at:	在以下位置填充短令牌(Pad short tokens at):
+Start	头(Start)
+End	末尾(End)
+Pad with (single character or 2-digit ASCII hex code):	填充字符（1或2位ASCII十六进制代码）：
+Base64-decode before analyzing	在解析前进行Base64解码
+Token Analysis	令牌分析(Token Analysis)
+The options below control the types of analysis that is performed at the bit level.	一下选项控制在字符级别执行的分析类型。
+Count	计数(Count)
+Transitions	转换(Transitions)
+The options below control the types of analysis that is performed at the bit level.	控制在位级执行的分析类型。
+FIPS monobit	FIPS单比特(FIPS monobit)
+FIPS poker	FIPS扑克(FIPS poker)
+FIPS runs	FIPS运行(FIPS runs)
+FIPS long run	FIPS长运行(FIPS long run)
+Spectral	光谱(Spectral)
+Correlation	相关(Correlation)
+Compression	压缩(Compression)
+Smart decode	智能解码(Smart decode)
+This function lets you do a word- or byte-level comparison between different data. You can load, paste, or send data here from other tools and then select the comparison you want to perform.	此功能允许您在不同数据之间进行字或者字节级比较，您可以从其他工具加载粘贴或者发送数据，然后选择要执行的配置。
+Select item ([0-9]+):	选定的项目(Select item)$1:
+Compare ...	比较(Compare) ...
+Words	文字(Words)
+Bytes	字节(Bytes)
+Added 	 追加(Added)
+Deleted 	 删除(Deleted)
+Modified 	 修改(Modified)
+Key:	key:
+Load	加载(Load)
+Burp Extensions	Burp扩展(Burp Extensions)
+Extensions let you customize Burp's behavior using your own or third-party code.	您可以使用自己或第三方代码自定义Burp的功能。
+Loaded	已经加载(Loaded)
+Output to system console	输出到系统控制台(Output to system console)
+Save to file:	保存到文件(Save to file)：
+Show in UI	在UI中显示(Show in UI)
+Extension loaded	扩展加载(Extension loaded)
+Detail	详细(Detail)
+Extension type:	扩展类型(Extension type)：
+Filenames	文件名(Filenames)
+The extension loaded successfully. Any output or error messages generated are shown below.	已成功加载扩展程序。生成的输出和错误显示在下面。
+Please enter the details of the extension, and how you would like to handle standard output and error.	请输入扩展的详细信息以及如何处理标准输出和错误。
+Extension Details	扩展细节(Extension Details)
+Extension file \(\.(jar|py|rb)\):	扩展文件(Extension file)(.$1)
+Standard Output	标准输出(Standard Output)
+Standard Error	标准错误(Standard Error)
+Output to system console	输出到系统控制台(Output to system console)
+Show in UI	在UI中显示(Show in UI)
+Refresh list	刷新列表(Refresh list)
+Manual install ...	手动安装(Manual install)......
+Pro extension	Pro拓展(Pro extension)
+The BApp Store contains Burp extensions that have been written by users of Burp Suite, to extend Burp's capabilities.	BApp商店扩展了扩展Burp功能，由Burp Suite用户编写。
+BApp Store	BApp商店(BApp Store)
+Installed	已安装(Installed)
+Rating	评分(Rating)
+Rating:	评分(Rating)：
+Popularity	受欢迎程度(Popularity)
+Popularity:	受欢迎程度(Popularity):
+Last updated	最终更新(Last updated)
+Detail	详细(Detail)
+Install	安装(Install)
+Author:	作者(Author):
+Version:	版本(Version)：
+Source:	源代码(Source)：
+Updated:	更新(Updated):
+These settings let you configure the environment for executing extensions that are written in Ruby. To use Ruby extensions, you will need to download JRuby, which is a Ruby interpreter implemented in Java. Note that you can either configure the location of the JRuby JAR file here, or you can load the JAR file on startup via the Java classpath.	您可以设置环境以执行Ruby扩展。要使用Ruby的扩展，您需要下载JRuby，一个用Java实现的Ruby解释器。您可以在此处设置JRuby JAR文件的位置，也可以在启动时从Java类路径加载JAR文件。
+Download Jython	下载Jython(Download Jython)
+Download JRuby	下载JRuby(Download JRuby)
+Save interface files	保存接口文件(Save interface files)
+Save Javadoc files	保存Javadoc文件(Save Javadoc files)
+You can use the Burp Extender APIs to create your own extensions to customize Burp's behavior.	使用Burp Extender的API，您可以创建自己的扩展来自定义Burp的功能。
+Burp Extender APIs	Burp扩展API(Burp Extender APIs)
+To use Python extensions, you need to download Jython, and configure its location in Burp Extender options.	要使用Python扩展，您需要下载Jython，并在Burp扩展选项中配置它的位置。
+To use Ruby extensions, you need to download JRuby, and configure its location in Burp Extender options.	要使用Ruby扩展，您需要下载JRuby，并在Burp扩展选项中配置它的位置。
+Settings	设置(Settings)
+These settings control how Burp handles extensions on startup.	这些设置控制Burp在启动时如何处理扩展。
+Automatically reload extensions on startup	在启动时自动重新加载扩展(Automatically reload extensions on startup)
+Automatically update installed BApps on startup	在启动时自动更新已安装的BApp(Automatically update installed BApps on startup)
+Java Environment	Java环境(Java Environment)
+These settings let you configure the environment for executing extensions that are written in Java. If your extensions use any libraries, you can specify a folder from which libraries will be loaded.	您可以设置环境以执行用Java编写的扩展。如果扩展使用任何库，则可以指定将加载库的文件夹。
+Folder for loading library JAR files (optional):	用于读取库的JAR文件的文件夹(Folder for loading library JAR files)（可选）：
+Select folder ...	选择文件夹(Select folder)...
+Python Environment	Python环境(Python Environment)
+These settings let you configure the environment for executing extensions that are written in Python. To use Python extensions, you will need to download Jython, which is a Python interpreter implemented in Java.	您可以设置环境以执行用Python编写的扩展。要使用Python扩展，您需要下载Jython，一个用Java实现的Python解释器。
+Location of Jython standalone JAR file:	Jython的JAR文件位置(Location of Jython standalone JAR file)：
+Folder for loading modules (optional):	加载模块的文件夹(Folder for loading modules)（可选）：
+Ruby Environment	Ruby环境(Ruby Environment)
+Location of JRuby JAR file:	JRuby JAR文件位置(Location of JRuby JAR file)：
+Connections	连接(Connections)
+Platform Authentication	平台认证设置(Platform Authentication)
+These settings are configured within user options but can be overridden here for this specific project.	这些设置在用户选项中，但可以在此覆盖指定的项目。
+Override user options	覆盖用户选项(Override user options)
+Upstream Proxy Servers	上游代理服务器(Upstream Proxy Servers)
+These settings let you configure Burp to automatically carry out platform authentication to destination web servers.	这些设置允许您将Burp配置为自动对目标web服务器执行平台身份验证。
+Do platform authentication	执行平台验证(Do platform authentication)
+Destination host	目标主机(Destination host)
+Domain hostname	域名主机名(Domain hostname)
+Prompt for credentials on platform authentication failure	平台身份验证失败时显示凭据提示(Prompt for credentials on platform authentication failure)
+Add platform authentication credentials	添加平台身份验证凭据
+Enter the platform credentials for the specified destination host.	请输入目标主机平台凭据。
+Destination host:	目标(Destination)Host:
+Authentication type:	验证类型(Authentication type)：
+Username	用户名
+Domain:	域名(Domain)：
+Domain hostname:	域名主机名(Domain hostname)：
+The following rules determine whether Burp sends each outgoing request to a proxy server, or directly to the destination web server. The first rule that matches each destination host will be used. To send all traffic to a single proxy server, create a rule with * as the destination host.	每个传出请求是发送到代理服务器还是直接发送到目标Wweb服务器由以下规则确定。使用目标主机首次匹配的规则。要将所有流量发送到单个代理服务器，请使用目标主机*创建规则。
+Proxy host	代理(Proxy)host
+Proxy port	代理端口(Proxy port)
+Proxy host:	代理(Proxy)host:
+Proxy port:	代理端口(Proxy port):
+Auth type	验证类型(Auth type)
+Add upstream proxy rule	添加上游的代理规则
+Enter the details of the upstream proxy rule. You can use wildcards to specify destination hosts (* matches zero or more characters, ? matches any character except a dot). Leave the proxy host blank to connect directly for the specified destination host.	请输入上层代理的详细信息。您可以使用通配符（*表示零个或多个字母，？对于除点之外的任何字符）以指定目标主机。将代理主机留空以直接连接到指定的主机。
+Destination host, may include wildcards	目标主机，可以包含通配符
+Proxy host, leave blank to connect directly	代理主机，如果是直接连接则留空
+These settings determine whether Burp sends each outgoing request to a proxy server, or directly to the destination web server. The first rule that matches each destination host will be used. To send all traffic to a single proxy server, create a rule with * as the destination host.	设置是通过代理服务器还是直接向Web服务器发送传出请求。使用目标主机首次匹配的规则。要将所有流量发送到单个代理服务器，请使用目标主机*创建规则。
+These settings let you configure Burp to use a SOCKS proxy. This setting is applied at the TCP level, and all outbound requests will be sent via this proxy. If you have configured rules for upstream HTTP proxy servers, then requests to upstream proxies will be sent via the SOCKS proxy configured here.	配置为使用SOCKS代理。此设置应用于TCP级别，所有传出请求都通过此代理发送。如果已设置更高级别的HTTP代理服务器，则将通过此处的SOCKS代理集发送对上层代理的请求。
+Use SOCKS proxy	使用SOCKS代理(Use SOCKS proxy)
+SOCKS proxy host:	SOCKS代理主机：
+SOCKS proxy port:	SOCKS代理端口：
+Username:	用户名：
+Do DNS lookups over SOCKS proxy	通过SOCKS代理进行DNS查找
+Timeouts	超时(Timeouts)
+These settings specify the timeouts to be used for various network tasks. Values are in seconds. Set an option to zero or leave it blank to never timeout that task.	指定用于各种网络任务的超时。该值以秒为单位。如果您不希望任务超时，请将其设置为0或将其留空。
+Normal:	正常(Normal):
+Open-ended responses:	从响应的开始到结束(Open-ended responses)：
+Domain name resolution:	域名解析(Domain name resolution)：
+Failed domain name resolution:	在名称解析失败时重试(Failed domain name resolution)：
+Hostname Resolution	主机名解析(Hostname Resolution)
+Enter the hostname and IP address. Burp will use this setting instead of the DNS resolution provided by your computer.	请输入主机名和IP地址。使用此设置而不是计算机的DNS名称解析。
+Hostname:	主机名(Hostname)：
+IP address:	IP地址(IP address)：
+Add hostname resolution rule	添加主机名解析规则
+Add entries here to override your computer's DNS resolution.	在此处添加以覆盖计算机的DNS名称解析。
+Out-of-Scope Requests	超出范围的请求(Out-of-Scope Requests)
+This feature can be used to prevent Burp from issuing any out-of-scope requests, including those made via the proxy.	它可以防止由范围外的请求引起的问题，包括通过代理生成的请求。
+Drop all out-of-scope requests	销毁范围之外的所有请求(Drop all out-of-scope requests)
+Use suite scope [defined in Target tab]	使用整个范围()Use suite scope[在目标(Target)选项卡上定义]
+Use custom scope	使用自定义范围(Use custom scope)
+These settings control the types of redirections that Burp will understand in situations where it is configured to follow redirections.	将Burp识别的重定向类型设置为遵循重定向的情况。
+3xx status code with Location header	Location带标题的3xx状态代码(3xx status code with Location header)
+Refresh header	刷新标题(Refresh header)
+Meta refresh tag	HTML头meta实现refresh重新定向标签(Meta refresh tag)
+JavaScript-driven	JavaScript驱动(JavaScript-driven)
+Any status code with Location header	任何带有Location标头的状态代码(Any status code with Location header)
+When following redirections, understand the following types:	在关注链接时，它会识别以下类型：
+These settings are used to specify URLs returning responses that stream indefinitely. The Proxy will pass these responses straight through to the client. Repeater will update the response panel as the response is received. Other tools will ignore streaming responses. In order to view the contents of streaming responses within Burp, you need to check the "store streaming responses" option.	指定返回无限流响应的URL。代理将这些响应直接传递给客户端。 Repeater将在收到响应后更新面板。其他工具忽略流式响应。要查看Burp中的流式响应内容，您需要选中“保存流式响应”选项。
+Store streaming responses (may result in large temp files)	保存流式响应(Store streaming responses)（可以创建大型临时文件）
+Strip chunked encoding metadata in streaming responses	从流响应中删除分块编码元数据(Strip chunked encoding metadata in streaming responses)
+Status 100 Responses	状态100的响应(Status 100 Responses)
+These settings control the way Burp handles HTTP responses with status 100.	这些设置是控制Burp如何处理状态为100的HTTP响应。
+Understand 100 Continue responses	了解100继续响应(Understand 100 Continue responses)
+Remove 100 Continue headers	去除100继续头(Remove 100 Continue headers)
+Streaming Responses	流媒体响应(Streaming Responses)
+Output	输出(Output)
+An error occurred while loading the extension. Any output or error messages generated are shown below.	加载扩展程序时发生错误。生成的输出和错误显示在下面。
+SSL Negotiation	SSL协议(SSL Negotiation)
+TLS Negotiation	TLS协议(TLS Negotiation)
+These settings control the SSL protocols and ciphers that Burp will use when performing SSL negotiation with upstream servers. If you are experiencing problems with SSL negotiation, you can use these settings to request use of specific protocols or ciphers. Use these options with caution as misconfiguration may break all your outgoing SSL connections.	控制Burp用于与更高级别服务器执行SSL协商的SSL协议和密码。如果您遇到SSL协商问题，可以将其配置为使用特定协议和密码。配置错误可能会导致所有传出的SSL连接中断，因此请谨慎使用。
+These settings control the TLS protocols and ciphers that Burp will use when performing TLS negotiation with upstream servers. If you are experiencing problems with TLS negotiation, you can use these settings to request use of specific protocols or ciphers. Use these options with caution as misconfiguration may break all your outgoing TLS connections.	控制Burp用于与更高级别服务器执行TLS协商的TLS协议和密码。如果您遇到TLS协商问题，可以将其配置为使用特定协议和密码。配置错误可能会导致所有传出的TLS连接中断，因此请谨慎使用。
+Use all supported protocols and ciphers of your Java installation	使用Java安装中所有受支持的协议和密码(Use all supported protocols and ciphers of your Java installation)
+Use the default protocols and ciphers of your Java installation	使用默认协议和密码进行Java安装(Use the default protocols and ciphers of your Java installation)
+Use custom protocols and ciphers	使用自定义协议和加密(Use custom protocols and cipher)
+SSL Negotiation Workarounds	SSL协议的解决方法(SSL Negotiation Workarounds)
+TLS Negotiation Workarounds	TLS协议的解决方法(TLS Negotiation Workarounds)
+Allow unsafe renegotiation (required for some client certificates)	允许不安全的重新协商(Allow unsafe renegotiation)（某些客户端证书需要）
+Disable SSL session resume	禁用SSL会话恢复(Disable SSL session resume)
+Disable TLS session resume	禁用TLS会话恢复(Disable TLS session resume)
+Client SSL Certificate	客户端SSL证书
+Client SSL Certificates	客户端SSL证书
+Client TLS Certificate	客户端TLS证书(Client TLS Certificate)
+Client TLS Certificates	客户端TLS证书(Client TLS Certificates)
+These settings let you configure the client SSL certificates that Burp will use when a destination host requests one. Burp will use the first certificate in the list whose host configuration matches the name of the host being contacted. You can double-click on an item to view the full details of the certificate.	设置目标主机请求客户端SSL证书时使用的证书。使用列表中与您尝试连接的主机的主机名匹配的第一个证书。双击该项以查看证书的详细信息。
+These settings let you configure the client TLS certificates that Burp will use when a destination host requests one. Burp will use the first certificate in the list whose host configuration matches the name of the host being contacted. You can double-click on an item to view the full details of the certificate.	设置目标主机请求客户端TLS证书时使用的证书。使用列表中与您尝试连接的主机的主机名匹配的第一个证书。双击该项以查看证书的详细信息。
+Alias	別名(Alias)
+Subject	主题(Subject)
+Issuer	发布人(Issuer)
+Key	关键(Key)
+Failed to load certificate: (.*)	无法加载证书：$1
+Specify the host(s) for which the certificate should be used, and the certificate type. You can use wildcards to specify destination hosts (* matches zero or more characters, ? matches any character except a dot), or leave the field blank to apply to all hosts.	选择使用证书的主机及其证书类型。您可以使用通配符（*表示零个或多个字母，？对于除dot之外的任何字符）指定目标主机，或将其留空以应用于所有主机。
+Certificate type:	证书类型：
+Hardware token or smart card (PKCS#11)	硬件令牌和智能卡(Hardware token or smart card)（PKCS＃11）
+Host, may include wildcards, or leave blank to apply to all hosts	主机（已启用通配符）或所有主机为空
+Server SSL Certificates	服务器SSL证书(Server SSL Certificates)
+Server TLS Certificates	服务器TLS证书(Server TLS Certificates
+This panel shows a list of the unique SSL certificates received from web servers. Double-click an item to show the full details of the certificate.	此面板显示从Web服务器接收的唯一SSL证书。双击该项目以查看证书的详细信息。
+This panel shows a list of the unique TLS certificates received from web servers. Double-click an item to show the full details of the certificate.	此面板显示从Web服务器接收的唯一TLS证书。双击该项目以查看证书的详细信息。
+Note: these settings can be overridden for individual projects within project options.	注意：这些设置可以被各个项目的项目选项覆盖。
+Java SSL Options	Java SSL选项
+Java TLS Options	Java TLS选项
+These settings can be used to enable certain SSL features that might be needed to successfully connect to some servers.	它是一个设置，用于启用与某些服务器的正常连接所需的各种SSL功能。
+These settings can be used to enable certain TLS features that might be needed to successfully connect to some servers.	它是一个设置，用于启用与某些服务器的正常连接所需的各种TLS功能。
+Enable algorithms blocked by Java security policy (requires restart)	启用Java安全策略阻止的算法(Enable algorithms blocked by Java security policy)（需要重启）
+Disable Java SNI extension (requires restart)	禁用Java SNI扩展(Disable Java SNI extension)（需要重新启动）
+User Interface	用户界面(User Interface)
+These settings let you control the appearance of Burp's user interface.	这些设置是控制Burp用户界面的外观。
+Font size:	字体大小(Font size)：
+Look and feel:	外观皮肤(Look and feel)：
+Changes will take effect when Burp is restarted.	更改将在重新启动后生效。(Changes will take effect when Burp is restarted.)
+HTTP Message Display	HTTP消息显示设置(HTTP Message Display)
+These settings let you control how HTTP messages are displayed within the raw HTTP viewer/editor.	控制HTTP消息在原始HTTP查看器/编辑器中的显示方式。
+Font:	字体(Font)：
+Change font ...	改变字体(Change font)...
+Highlight request syntax	突出显示请求语法(Highlight request syntax)
+Highlight response syntax	突出显示响应语法(Highlight response syntax)
+Character Sets	字符集设置(Character Sets)
+These settings control how Burp handles different character sets when displaying raw HTTP messages. Note that some glyphs are not supported by all fonts. If you need to use an extended or unusual character set, you should first try a system font such as Courier New or Dialog.	控制在显示HTTP消息raw时Burp如何处理各种字符集。请注意，所有字体都不支持某些字形。如果要使用扩展或异常字符集，请首先尝试使用Courier New和Dialog等系统字体。
+Recognize automatically based on message headers	从消息头中自动识别(Recognize automatically based on message headers)
+Use the platform default \((.*)\)	使用平台默认(Use the platform default)（$1）
+Use the platform default	使用平台默认值(Use the platform default)
+Display as raw bytes	显示为原始字节(Display as raw bytes)
+Use a specific character set:	使用指定的字符集(Use a specific character set)：
+HTML Rendering	HTML呈现(HTML Rendering)
+These settings control how Burp handles in-tool rendering of HTML content.	在工具中设置HTML内容的呈现。
+Allow renderer to make HTTP requests (for images, etc.)	允许渲染器发送HTTP请求（图像等）(Allow renderer to make HTTP requests (for images, etc.))
+Enable embedded browser sandbox	启用内置浏览器沙箱(Enable embedded browser sandbox)
+Enable embedded browser sandbox (Windows only)	启用内置浏览器沙箱（仅限Windows）(Enable embedded browser sandbox (Windows only)
+Hotkeys	热键(Hotkeys)
+These settings let you configure hotkeys for common actions. These include item-specific actions such as "Send to Repeater", global actions such as "Switch to Proxy", and in-editor actions such as "Cut" and "Undo".	您可以设置热键以执行常见操作。您可以为特定于项目的操作设置热键，例如“发送到转发器”，诸如“切换到代理”之类的全局操作，编辑器中的操作，如“剪切”和“撤消”。
+Hotkey	热键(Hotkey)
+Edit hotkeys	热键编辑(Edit hotkeys)
+Automatic Project Backup [disk projects only]	自动项目备份(Automatic Project Backup)[仅限磁盘项目]
+Automatic project backup saves a copy of the Burp project file periodically in the background.	Project Auto Backup会定期在后台保存Burp项目文件的副本
+Automatically back up the project every	自动项目备份间隔
+Include in-scope items only	仅包括在范围内的项目(Include in-scope items only)
+Show progress dialog during backups	备份期间显示进度对话框(Show progress dialog during backups)
+Delete backup file on clean shutdown of Burp	当Burp正常完成时删除备份文件(Delete backup file on clean shutdown of Burp)
+Temporary Files Location	临时文件位置(Temporary Files Location)
+These settings let you configure where Burp stores its temporary files. Changes will take effect the next time Burp starts up.	这些设置允许您配置Burp存储其临时文件的位置。更改将在下次启动Burp时生效。
+Use default system temp directory	使用系统默认临时目录(Use default system temp directory)
+Use custom location:	使用指定位置(Use custom location)：
+Choose folder ...	选择文件夹(Choose folder)...
+The REST API can be used by other tools to integrate with Burp Suite. This function exposes sensitive functionality and data, and you should read the full documentation before enabling the service.	您可以使用REST API将Burp Suite与其他工具集成。此功能公开高度机密的功能和数据，因此您需要在启用服务之前阅读所有手册。
+Service URL:	Service URL:
+Change...	修改(Change)...
+Service running	服务运行中(Service running)
+Allow access without API key (using this option is not secure)	允许在没有API密钥的情况下访问(Allow access without API key)（此选项不安全）
+New	新(New)
+Created	创建(Created)
+Configure REST API URL	REST API URL设置
+These settings control how Burp binds the REST API.	这些设置控制Burp如何绑定REST API
+New API key	新的API密钥
+API keys are secrets and should be handled carefully. You cannot retrieve an existing API key from Burp after it has been created.	API密钥是保密的，需要谨慎对待。创建后无法从Burp获取API密钥。
+Copy key to clipboard	将密钥复制到剪贴板(Copy key to clipboard)
+Proxy Interception	代理拦截(Proxy Interception)
+This setting controls the state of proxy interception at startup.	此设置控制启动时代理监听的状态。
+Enable interception at startup:	启动时启用拦截：
+Always enable	始终启用(Always enable)默认
+Always disable	始终禁用(Always disable)
+Restore setting from when Burp was last closed	最后一个退出时恢复状态(Restore setting from when Burp was last closed)
+Proxy History Logging	代理历史记录(Proxy History Logging)
+Target scope will automatically set the Proxy option to stop sending out-of-scope items to the history or other Burp tools.	设置是否自动添加“代理”选项，以防止在向目标范围添加项目时将超出范围的项目发送到历史记录或其他Burp工具。
+When items are added to Target scope:	将项目添加到目标范围(Target scope)时：
+Stop sending out-of-scope items to Proxy history and other Burp tools	停止将超出范围的项发送到代理历史记录和其他Burp工具
+Prompt for action	选择每个操作(Prompt for action)默认
+Do nothing	什么都不做(Do nothing)
+Performance Feedback	问题反馈(Performance Feedback)
+Submit anonymous feedback about Burp's performance	匿名提交有关Burp的问题(Submit anonymous feedback about Burp's performance)
+Feedback only contains technical information about Burp's internal functioning, and does not identify you in any way. If you do report a bug via email, you can help us diagnose any problems that your instance of Burp has encountered by including your debug ID.	反馈只包含有关Burp内部功能的技术信息，不以任何方式识别您。如果您确实通过电子邮件报告了一个bug，那么您可以通过包含调试ID来帮助我们诊断您的Burp实例遇到的任何问题。
+Debug ID:	调试(Debug)ID：
+Log exceptions to a local directory: 		从本地文件中载入异常日志(Log exceptions to a local directory):
+Report bug	报告错误(Report bug)
+Please select a directory	请选择一个目录
+Open saved attack	打开保存的攻击(Open saved attack)
+Scan defined insertion points	扫描定义的插入点(Scan defined insertion points)
+Save attack config	保存攻击设置(Save attack config)
+Load attack config	加载攻击设置(Load attack config)
+Copy attack config	复制攻击设置(Copy attack config)
+New tab behavior	新标签行为(New tab behavior)
+Automatic payload positions	自动载入payload位置( payload positions)
+Configure predefined payload lists	编辑预定义的payload(Configure predefined payload lists)
+With payload positions	包括payload位置(With payload positions)
+Without payload positions	不包括payload位置(Without payload positions)
+To tab ([0-9]+)	到标签$1( to tab $1)
+Replace base parameter value	替换原始参数值(Replace base parameter value)
+Append to base parameter value	添加到原始参数值(Append to base parameter value)
+Use default attack configuration	使用默认攻击设置(Use default attack configuration)
+Copy configuration from first tab	从第一个选项卡复制设置(Copy configuration from first tab)
+Copy configuration from last tab	从上一个标签复制设置(Copy configuration from last tab)
+To new tab	到新标签(To new tab)
+Follow redirections	跟随重定向(Follow redirections)
+Parse WSDL	解析(Parse)WSDL
+Chunked coding converter	分块传输(Chunked coding converter)
+Encoding request body	对body进行分块编码(Encoding request body)
+Decoding request body	对body进行分块解码(Decoding request body)
+Config	配置(Config)
+Chunked coding converter config	分块编码转换器配置(Chunked coding converter config)
+Length of chunked:	分块长度(Length of chunked):
+Add comments	添加注释(Add comments)
+Length of comment:	注释长度(Length of comment):
+Atc on:		运用在(Atc on):
+All Tools	所有模块
+SQLMapper	SQLmap联动
+SQLMap Command	SQLMap命令
+Extra SQLMap Params:	额外的SQLMap参数:
+Detection	检测命令
+Techniques	注入方式
+Injection	注入
+Enumeration	枚举
+General/Misc.	一般/杂项
+Connection	sqlmap代理
+String match for True:	匹配字符串里存在的(String match for True):
+String match for False:	匹配字符串里不存在的(String match for False):
+Regex match for True:	正则匹配(Regex match for True):
+HTTP Code for True:	HTTP状态码匹配(HTTP Code for True):
+Compare on text only.	仅对文本进行比较(Compare on text only)
+Compare on titles only.	仅对标题进行比较(Compare on titles only)
+Test Forms	测试表格(Test Forms)
+Boolean-based blind (B)	布尔盲注(Boolean-based blind)
+Error-based (E)	显错注入(Error-based)
+Union query-based (U)	联合注入(Union query-based)
+Number of Colums:	字段长度(联合注入用)(Number of Colums)
+Stacked queries (S)	堆叠注入(Stacked queries)
+Time-based blind (T)	时间盲注(Time-based blind)
+Inline queries (Q)	内联注入(Inline queries)
+Delay (in seconds):	延迟(Delay :)多少秒
+Second Order Attack URL:	二次注入URL(Second Order Attack):
+Follow redirection:	跟随重定向(Follow redirection):
+Refetch response	重新获取响应包(Refetch response)
+Type a search term	输入搜索词(Type a search term)
+Pretty print by default	默认显示美化后的代码(pretty print by default)
+Pretty	美化(Pretty)
+Options	选项(Options)
+Send	发送(Send)
+inputIP	输入IP(inputIP)
+randomIP	生成随机IP(randomIP)
+Launch Smuggle probe	发起走私探测请求(Launch Smuggle probe)
+Save entire history	保存整个历史记录(Save entire history)
+Paste URL as request	粘贴URL为request请求(Paste URL as request)
+Add to site map	添加到站点地图(Add to site map)
+Burp Repeater documentation	Burp Repeater模块文档(Burp Repeater documentation)
+View Logs	查看日志(View Logs)
+Filter: 	筛选(Filter):
+Complete	完成(Complete)
+Tool	工具(Tool)
+Query	查询(Query)
+Response Length	响应长度(Response Length)
+Inferred Type	类型(Inferred Type)
+New Cookies	新的cookies(New Cookies)
+Request Time	请求时间(Request Time)
+Response Time	响应时间(Response Time)
+Proxy Listener Interface	监听的代理接口(Proxy Listener Interface)
+Colorize	彩色化(Colorize)
+Delete All	全部删除(Delete All)
+Color Filters	颜色过滤器(Color Filters)
+LogFilter	日志过滤器(LogFilter)
+Foreground Color	前景色(Foreground Color)
+Background Color	背景色(Background Color)
+Add LogFilter	添加日志过滤器(Add LogFilter)
+Clear Logs	清除日志(Clear Logs)
+Export entry as CSV	导出为csv(Export entry as CSV)
+Export entry as JSON	导出为json(Export entry as json)
+Use (Request|Response|Proxy).(Host|Path|Query|Time|Complete|Method|Cookies||RTT|Complete|Status|Length|InferredType|Comment|Tool|ListenInterface) Value As LogFilter	使用该$1的$2作为过滤条件(Use $1.$2 Value As LogFilter)
+Set (Request|Response|Proxy).(Host|Path|Query|Time|Complete|Method|Cookies||RTT|Complete|Status|Length|InferredType|Comment|Tool|ListenInterface) Value as Color Filter	设置该$1的$2颜色过滤(Set $1.$2 Value as Color Filter)
+Add (Request|Response|Proxy).(Host|Path|Query|Time|Complete|Method|Cookies||RTT|Complete|Status|Length|InferredType|Comment|Tool|ListenInterface) Value To LogFilter	增加该$1的$2到日志过滤器(Add $1.$2 Value To LogFilter)
+Export as...	导出为(Export as)...
+Spider from here	从这里爬取(Spider from here)
+Do an active scan	进行主动扫描(Do an active scan)
+Do a passive scan	进行被动扫描(Do a passive scan)
+Remove Item	删除项目(Remove Item)
