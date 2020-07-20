@@ -1,3 +1,11 @@
+Using Burp Proxy	使用Burp代理
+Burp Proxy options	Burp代理选项
+Open Browser	打开自带浏览器
+Burp Proxy documentation	Burp代理相关文档
+Use Burp's embedded browser	使用Burp自带浏览器
+Open browser	打开自带浏览器
+Use a different browser	使用系统上的的浏览器
+View documentation	查看相关文档
 Intercept is on	拦截开启(on)
 Intercept is off	拦截关闭(off)
 Drop	丢弃(Drop)
