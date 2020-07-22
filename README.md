@@ -8,6 +8,9 @@ burp的汉化个人翻译文本
 图片预览--大多数都是双语汉化
 精力和能力有限、可能有部分汉化错误
 且只汉化部分，能满足大多数需求了
+
+**如果有字体显示错误的请在设置调整为宋体等中文字体、字号也根据自己的实际情况调节，我的是16，无BUG，选择什么的都正常**
+
 ![UdaLWt.png](https://s1.ax1x.com/2020/07/15/UdaLWt.png)
 ![UdaXSP.png](https://s1.ax1x.com/2020/07/15/UdaXSP.png)
 ![UdaqJI.png](https://s1.ax1x.com/2020/07/15/UdaqJI.png)
