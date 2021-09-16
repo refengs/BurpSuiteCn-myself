@@ -2,9 +2,14 @@
 burp的汉化个人翻译文本
 
 ## 更新日志
+
 2021年9月16日
+
 新增部分汉化 Repeater模块汉化 以及 proxy模块
+
 [![4nEjT1.png](https://z3.ax1x.com/2021/09/16/4nEjT1.png)](https://imgtu.com/i/4nEjT1)
+
+[![4nGVKI.png](https://z3.ax1x.com/2021/09/16/4nGVKI.png)](https://imgtu.com/i/4nGVKI)
 
 ## 使用说明
 需要配合burp的汉化插件使用
