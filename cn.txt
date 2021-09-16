@@ -1476,7 +1476,7 @@ Waiting	等待中(Waiting)
 Auto-scroll to match when text changes	在文本更改时自动滚动到匹配的位置(Auto-scroll to match when text changes)
 ([,0-9]+) bytes \| ([0-9]+) millis	$1 字节(bytes) | $2 毫秒(millis)
 Intruder attack	Intruder攻击(attack)
-live task	实时任务(live task)
+Llive task	实时任务(Live task)
 Certain	确定的(Certain)
 Tentative	实验性的(Tentative)
 Firm	Firm(Firm)
@@ -1489,3 +1489,14 @@ You can monitor its progress and access the results	您可以在仪表盘(You ca
 from the dashboard.	监视其进度并获得结果.( from the dashboard)
 Remember my choice when closing attacks in future	记住我的选择,以后关闭攻击时(Remember my choice when closing attacks in future )
 You can change this setting in the Intruder menu.	您可以在 Intruder 菜单中更改此设置.(You can change this setting in the Intruder menu)
+([,0-9]+) payload position	$1 个有效载荷位置(payload position)
+Resume	继续(Resume)
+Pause	暂停(Resume)
+([0-9]+)% complete	已完成 $1% (complete)
+([,0-9]+) highlights?	已高亮 $1
+Memory: ([.0-9]+)MB	占用内存: $1MB
+Disk: ([.0-9]+)MB	占用磁盘: $1MB
+Memory: ([.0-9]+)KB	占用内存: $1KB
+Disk: ([.0-9]+)KB	占用磁盘: $1KB
+Memory: ([.0-9]+)GB	占用内存: $1GB
+Disk: ([.0-9]+)GB	占用磁盘: $1GB
