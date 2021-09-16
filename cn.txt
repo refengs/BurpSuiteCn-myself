@@ -14,8 +14,8 @@ File	文件(File)
 Choose file...	选择文件(Choose file)...
 Cancel	取消(Cancel)
 Pause Automated Tasks	暂停自动任务
-Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.0体验版 本人不对翻译等内容负责 by: C1O2A3
-Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.0体验版 本人不对翻译等内容负责 by: C1O2A3
+Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.1体验版 本人不对翻译等内容负责 by: C1O2A3
+Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.1体验版 本人不对翻译等内容负责 by: C1O2A3
 Are you sure you want to cancel?	你确定要退出吗?
 Yes	是
 No	否
