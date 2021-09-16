@@ -20,7 +20,7 @@ Are you sure you want to cancel?	你确定要退出吗?
 Yes	是
 No	否
 Confirm	提示
-Use Burp defaults	使用Bur的默认值
+Use Burp defaults	使用Burp的默认值
 Use options saved with project	使用项目中保存的选项
 Load from configuration file	从文件中读取设置
 Default to the above in future	下次将其设置为默认值
@@ -192,7 +192,6 @@ Show only in-scope items	仅显示在范围内显示项目
 (.*)[Hh]iding unresponded items(.*)	$1隐藏未响应的项目$2
 Contents	内容(Contents)
 Issues	漏洞问题(Issues)
-Host	host主机(Host)
 Method	请求方法(Method)
 URL	URL
 Params	参数(Params)
@@ -225,7 +224,7 @@ Port	端口
 Exclude from scope	从范围中排除以下内容
 Add prefix	添加prefix(前缀)
 Prefix	prefix(前缀)
-OK	好的
+OK	好的(OK)
 Specify a prefix for URLs you want to match.	请指定您要匹配的网址的prefix(前缀)
 Prefix:	前缀(Prefix)：
 Issue Definitions	漏洞问题定义(Issue Definitions)
@@ -484,7 +483,7 @@ Remove JavaScript form validation	删除JavaScript表单验证(Remove JavaScript
 Remove all JavaScript	删除所有JavaScript(Remove all JavaScript)
 Remove <object> tags	删除<object>标记(Remove <object> tags)
 Convert HTTPS links to HTTP	将HTTPS链接转换为HTTP(Convert HTTPS links to HTTP)
-Remove secure flag from cookies	从cookie中删除安全属性
+Remove secure flag from cookies	从cookie中删除"安全"属性(Remove secure flag from cookies)
 Load options	加载选项
 Save options	保存选项
 Intercept Server Responses	服务器响应拦截(Intercept Server Responses)
@@ -1259,7 +1258,6 @@ Techniques	注入方式
 Injection	注入
 Enumeration	枚举
 General/Misc.	一般/杂项
-Connection	sqlmap代理
 String match for True:	匹配字符串里存在的(String match for True):
 String match for False:	匹配字符串里不存在的(String match for False):
 Regex match for True:	正则匹配(Regex match for True):
@@ -1340,3 +1338,133 @@ Unpack gzip / deflate	解压(Unpack)gzip/deflate
 Convert to chunked	转换为分块(Convert to chunked)
 GZIP encode body	GZIp编码body(GZIP encode body)
 Save copy	保存复制(Save copy)
+Target: Not specified	目标：未指定
+Target: (http.*)	目标(Target): $1
+Session is not running	会话已停止(Session stopped)
+Session is running	会话正在运行(Session running)
+Discovery Session Status	搜索会话状态(Discovery Session Status)
+Requests made:	生成的请求(Requests made)：
+Bytes transferred:	传输的字节数(Bytes transferred)：
+Tasks queued:	排队任务(Tasks queued)：
+Spider requests queued:	排队中的爬行请求(Spider requests queued)：
+Responses queued for analysis:	排队等待分析的响应(Responses queued for analysis)：
+Queued Tasks	排队任务(Queued Tasks)
+Define the start directory for the content discovery session, and whether files or directories should be targeted.	定义目录以启动内容发现会话和目标文件或目录。
+Start directory:	开始目录(Start directory)：
+Discover:	发现(Discover):
+Files and directories	文件和目录(Files and directories)
+Files only	仅限文件(Files only)
+Directories only	仅限目录(Directories only)
+Recurse subdirectories	递归搜索子目录(Recurse subdirectories)
+Max depth:	最大深度(Max depth):
+Built-in long directory list	长内置目录列表(Built-in long directory list)
+Built-in long file list	内置长文件名列表(Built-in long file list)
+Built-in short directory list	短内置目录列表(Built-in short directory list)
+Built-in short file list	内置短文件名列表(Built-in short file list)
+Custom file list:	自定义文件列表(Custom file list)：
+Custom directory list:	自定义目录列表(Custom directory list)：
+Names observed in use on target site	目标站点中使用的名称(Names observed in use on target site)
+Derivations based on discovered items	基于项目的发现(Derivations based on discovered items)
+File Extensions	文件扩展名(File Extensions)
+Test these extensions:	测试以下扩展名(Test these extensions)：
+Test all extensions observed in use on target site, except for:	测试目标站点中使用的所有扩展，但以下内容除外(Test all extensions observed in use on target site, except for)：
+Test these variant extensions on discovered files:	在找到的文件上测试这些扩展名(Test these variant extensions on discovered files)：
+Test file stems with no extension	文件名没有扩展名(Test file stems with no extension)
+Discovery Engine	搜索引擎(Discovery Engine)
+Case sensitivity:	区分大小写(Case sensitivity)：
+Auto-detect	自动检测(Auto-detect)
+Sensitive	区分大写和小写字母(Sensitive)
+Insensitive	忽略大小写(Insensitive)
+Add discovered content to suite site map	将发现的内容添加到Sitemap(Add discovered content to suite site map)
+Copy content from suite site map	从Sitemap复制内容(Copy content from suite site map)
+Spider from discovered content	爬行已发现的内容(Spider from discovered content)
+Number of discovery threads:	搜索线程数(Number of discovery threads)：
+Number of spider threads:	爬行的线程数(Number of spider threads):
+Are you sure you want to exit this content discovery session?	您确定要结束此内容搜索会话吗？
+Confirm	确认(Confirm)
+Contains parameters	包含参数(Contains parameters)
+Does not contain parameters	不包含参数(Does not contain parameters)
+Is in target scope	在目标范围内(Is in target scope)
+Was intercepted	被拦截了(Was intercepted)
+Was annotated	已添加注释(Was annotated)
+Was modified	已修改(Was modified)
+Was not annotated	没有注释(Was not annotated)
+Was not intercepted	没有被拦截(Was not intercepted)
+Was not modified	未修改(Was not modified)
+SQL Injection	SQL注入(Injection)
+Error Based SQLi	基于SQL报错注入(Error Based SQLi)
+SQLi Login Bypass	SQL注入登录绕过(SQLi Login Bypass)
+XXE Snippets	XXE代码(Snippets)
+Reverse Shell	反弹shell(Reverse Shell)
+Column Count	猜列数(Column Count)
+Union Statements	联合语句(Union Statements)
+Basic Statements	基本语句(Basic Statements)
+Databses	数据库(Databses)
+Tables	数据表(Tables)
+Columns	列(Columns)
+Data	数据(Data)
+File Inclusion Setup	文件包含设置(File Inclusion Setup)
+Restrict IP:	限制(Restrict)IP:
+Use Request Template:	使用request模板(Use Request Template):
+Generate File	生成文件(Generate File)
+Gen New Token		生成新的token(Gen New Token)
+re/Connect	重新连接/连接(re/Connect)
+From the:	来自(From the):
+To the:	到(To the):
+Lowercase	小写字母(Lowercase)
+Just Initial	仅首字母(Just Initial)
+Mixedcase	混合大小写字母(Mixedcase)
++Common Nicknames		+常用昵称(Common Nicknames)
+Uppercase	大写(Uppercase)
+Surnames	姓氏(Surnames)
+First Names	名字(First Names)
+Just Add First Names	仅加上名字(Just Add First Names)
+Combine First names and Surnames	把名字和姓氏结合起来(Combine First names and Surnames)
+Delimiter:	分隔符(Delimiter):
+Switch Order	转换顺序(Switch Order)
+Add Combos	添加组合(Add Combos)
+Just Add Surnames	仅加上姓氏(Just Add Surnames)
+Limit to: 	限制为(Limit to): 
+DBS:	DBS(数据库):
+Character(ASCII code):	字符(ASCII码):
+Union Table:	联合表(Union Table):
+Extra Headers	额外的头部(Extra Headers)
+POST Data:	POST 数据(Data):
+Testable Parameters:	可测试参数(Testable Parameters):
+Skip Parameters:	跳过参数(Skip Parameters):
+Suffix:	后缀(Suffix):
+DBMS:	DBMS(数据库):
+OS:	OS(系统):
+databases	数据库(databases)
+tables	数据表(tables)
+columns	列(columns)
+count	检索表的项目数(count)
+current db	获取当前数据库名称(current db)
+hostname	主机名(hostname)
+is dba	当前用户权限是否为root(is dba)
+current user	当前用户(current user)
+roles	枚举数据库用户角色(roles)
+comments	检索数据库的备注(comments)
+privileges	查看特权，常用。例： --privileges -U username (CU 就是当前用户)
+Set limits:	设置限制(Set limits):
+Include	包含(Include)
+Ignore System Proxy	忽略系统代理(Ignore System Proxy)
+Authentication Type:	身份验证类型(Authentication Type):
+Delay(seconds): 	延迟(Delay)(秒):
+Timeout(seconds): 	超时(Timeout)(秒):
+Threads:	线程(Threads):
+Query Parameters \(([0-9]+)\)	查询(Query)的参数($1)
+Body Parameters \(([0-9]+)\)	Body的参数($1)
+Selection \(([0-9]+)\)	选中 (Selection) ($1)
+Request Cookies \(([0-9]+)\)	请求包中的Cookies (Request Cookies) ($1)
+Request Headers \(([0-9]+)\)	请求包中的头部信息 (Request Headers) ($1)
+Response Cookies \(([0-9]+)\)	响应包 中的头部信息 (Response Cookies) ($1)
+Response Headers \(([0-9]+)\)	响应包 中的头部信息 (Response Headers) ($1)
+Are you sure you want to clear the history?	您确定要清除历史记录吗？
+Extensions	扩展(Extensions)
+SELECTED TEXT	选中文本(SELECTED TEXT)
+DECODED FROM:	解码为: (DECODED FROM)
+INSPECTOR	检查(INSPECTOR)
+ADD...	添加...
+Select extension...	选择插件...
+See more	查看更多(See more)
