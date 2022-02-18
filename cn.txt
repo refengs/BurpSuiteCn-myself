@@ -4,6 +4,7 @@ Drop	丢弃(Drop)
 Forward	放行(Forward)
 Action	操作(Action)
 Next	下一步(Next)
+Previous	上一步(Previous)
 Temporary project	临时项目
 New project on disk	在磁盘新建项目
 Open existing project	打开已有的项目
@@ -14,8 +15,8 @@ File	文件(File)
 Choose file...	选择文件(Choose file)...
 Cancel	取消(Cancel)
 Pause Automated Tasks	暂停自动任务
-Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.1体验版 本人不对翻译等内容负责 by: C1O2A3
-Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.1体验版 本人不对翻译等内容负责 by: C1O2A3
+Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.0体验版 本人不对翻译等内容负责 by: C1O2A3
+Welcome to Burp Suite Professional. Use the options below to create or open a project.	欢迎使用Burp Suite专业版.使用下面的选项创建或者打开项目.优化翻译版V1.0体验版 本人不对翻译等内容负责 by: C1O2A3
 Are you sure you want to cancel?	你确定要退出吗?
 Yes	是
 No	否
@@ -40,7 +41,7 @@ New scan 	新建扫描(New scan)
 New scanning configuration	新的扫描设置(New scanning configuration)
 New live task	新建实时任务(New live task)
 New live task 	新建实时任务(New live task)
-Issue activity	漏洞问题活动(Issue activity)
+Issue activity	问题活动(Issue activity)
 Filter	过滤(Filter)
 Filter:	过滤器：
 Filter: 	过滤器：
@@ -54,7 +55,7 @@ Tentative	Tentative
 Advisory	Advisory
 Task	任务(Task)
 Time	时间(Time)
-Issue type	漏洞问题类型(sue type)
+Issue type	问题类型(sue type)
 Event log	事件日志(Event log)
 Critical	关键(Critical)
 Error	错误(Error)
@@ -99,7 +100,7 @@ Finished	已完成
 ([0-9]+)\. Live passive crawl from Proxy, Repeater and Intruder \(custom scope\)	$1. Proxy,Repeater,Intruder从（自定义范围）实时被动爬网
 ([0-9]+)\. Live passive crawl from Proxy, Repeater and Intruder \(suite scope\)	$1. $Proxy,Repeater,Intruder 来自（工具范围）的实时被动爬行
 Audit checks - passive	审计检查 - 被动
-Issues:	漏洞问题(Issues):
+Issues:	问题(Issues):
 Capturing:	捕获中(Capturing)
 0 requests(0 errors)	0个请求(0个错误)
 View details	查看详细信息(View details)
@@ -403,11 +404,11 @@ Resource pool	资源池(Resource pool)
 Specify the resource pool in which the scan will be run. Resource pools are used to manage the usage of system resources across multiple tasks.	请指定要扫描的资源池。资源池用于管理跨多个任务的系统资源使用情况。
 Use existing resource pool	使用现有资源池
 Selected	选择(Selected)
-Max concurrent requests	最大并发请求数
-Delay between requests	请求之间的延迟
-Delay between requests:	请求之间的延迟：
+Max concurrent requests	最大并发请求数:(Max concurrent requests)
+Delay between requests	请求之间的延迟:(Delay between requests)
+Delay between requests:	请求之间的延迟：(Delay between requests)
 Create new resource pool	创建一个新的资源池
-Maximum concurrent requests:	最大并发请求数：
+Maximum concurrent requests:	最大并发请求数(Maximum concurrent requests)：
 milliseconds	毫秒(milliseconds)
 Add random variations	添加随机变化(Add random variations)
 Scan configuration	扫描设置(Scan configuration)
@@ -1460,11 +1461,12 @@ Request Cookies \(([0-9]+)\)	请求包中的Cookies (Request Cookies) ($1)
 Request Headers \(([0-9]+)\)	请求包中的头部信息 (Request Headers) ($1)
 Response Cookies \(([0-9]+)\)	响应包 中的头部信息 (Response Cookies) ($1)
 Response Headers \(([0-9]+)\)	响应包 中的头部信息 (Response Headers) ($1)
-Are you sure you want to clear the history?	您确定要清除历史记录吗？
+Are you sure you want to clear the history?	您确定要清除历史记录吗(Are you sure you want to clear the history)？
 Extensions	扩展(Extensions)
 SELECTED TEXT	选中文本(SELECTED TEXT)
 DECODED FROM:	解码为: (DECODED FROM)
 INSPECTOR	检查器(INSPECTOR)
+Inspector	检查器(Inspector)
 ADD...	添加...
 Select extension...	选择插件...
 See more	查看更多(See more)
@@ -1500,3 +1502,18 @@ Memory: ([.0-9]+)KB	占用内存: $1KB
 Disk: ([.0-9]+)KB	占用磁盘: $1KB
 Memory: ([.0-9]+)GB	占用内存: $1GB
 Disk: ([.0-9]+)GB	占用磁盘: $1GB
+Repeat	重新(Repeat)
+Attack	攻击(Attack)
+With random variations	随机变化(With random variations)
+Increase delay in increments of	增加延迟(Increase delay in increments of)
+Update Host header to match target	更新主机头以匹配目标(Update Host header to match target)
+Choose an attack type	选择一种攻击类型(Choose an attack type)
+Attack type: 	攻击类型(Attack type): 
+Target:	目标(Target):
+Request Attributes	请求包的属性(Request Attributes)
+Request Query Parameters	请求包的查询参数(Request Query Parameters)
+It's empty in here	这里空空如也(It's empty in here)
+Request Cookies	请求包Cookies(Request Cookies)
+Response Headers	响应头(Response Headers)
+Request Body Parameters	请求包的Body参数(Request Body Parameters)
+Value:	值(Value):
